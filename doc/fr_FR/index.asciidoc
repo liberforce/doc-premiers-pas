@@ -3,130 +3,134 @@
 Une fois Jeedom (box) branché électriquement, et connecté sur votre réseau local (box internet),
 il faudra se rendre dans l'administration de votre box internet pour trouver l'adresse IP de Jeedom sur votre réseau local.
 
-Pour se rendre sur Jeedom, dans un navigateur web, tapez http://VOTRE_IP/jeedom . Une page avec login s'affiche, par défaut le login et le mot de passe sont "admin"
+Pour se rendre sur Jeedom, dans un navigateur web, tapez http://VOTRE_IP/jeedom
+Une page avec login s'affiche, par défaut le login et le mot de passe sont "admin"
 
 image::../images/login.png[Login]
 
 Première connexion, la page est vide, en haut se trouve un bandeau avec les menus principaux de Jeedom.
 
-image::../images/menu.png[Menu]
+image::../images/main_menu.png[Menu]
 
 A gauche se trouve la liste des futurs objets qui composeront la future installation domotique. Au départ cette liste est vide, ce sera à vous de la configurer. Ces objets seront expliqués par la suite.
 
-image::../images/liste_objets.png[Liste objets]
+image::../images/object_list.png[Liste objets]
 
 En haut, à droite, dans le bandeau se trouve les options de login. Un bouton qui amène à la configuration du profil. Et un autre bouton qui permet de choisir l'option d'affichage. En effet Jeedom propose 2 affichages pour ne pas surcharger l'interface utilisateur inutilement dans le cadre d'une utilisation classique. C'est pour cela que Jeedom propose un mode "Expert" à activer en fonction des besoins. Dans la documentation, ce mode Expert sera activé.
 
-image::../images/menu_utilisateur.png[Menu utilisateur]
+image::../images/user_menu.png[Menu utilisateur]
 
 Ici les différentes options du profil :
 
-image::../images/utilisateur_profil_theme.png[Profil utilisateur - Theme]
+image::../images/user_profil_theme.png[Profil utilisateur - Theme]
 
-image::../images/utilisateur_profil_interface.png[Profil utilisateur - Interface]
+image::../images/user_profil_interface.png[Profil utilisateur - Interface]
 
-image::../images/utilisateur_profil_notifications.png[Profil utilisateur - Notifications]
+image::../images/user_profil_notification.png[Profil utilisateur - Notifications]
 
-image::../images/utilisateur_profil_autre.png[Profil utilisateur - Autre]
+image::../images/user_profil_other.png[Profil utilisateur - Autre]
 
 Le menu général de Jeedom dans lequel on va retrouver plusieurs fonctions principales de Jeedom :
 
-image::../images/menu_general.png[Menu général]
+image::../images/general_menu.png[Menu général]
 
-== Présentation du sous-menu administration:
+== Présentation du sous-menu administration
 
 Le sous-menu administration permet de configurer Jeedom.
 
-image::../images/menu_administration.png[Menu administration]
+image::../images/general_admin_menu.png[Menu administration]
 
 Le premier menu est le menu Configuration, sensiblement réservée au mode expert, il sera détaillé plus tard.
 
-image::../images/administration_configuration.png[Administration configuration]
+image::../images/admin_administration.png[Administration configuration]
 
 Ensuite il y a le menu utilisateur.
 La première chose à faire est de modifier le mot de passe admin, ou de créer un nouveau compte utilisateur avec les droits d'administrateur.
 Ensuite, pour une utilisation normale il sera possible de créer d'autres comptes utilisateurs. Ces modifications se font très facilement via les boutons "Changer mot de passe" et "Ajouter un utilisateur".
 Ne pas oublier de cliquer sur le bouton "Sauvegarder" une fois les modifications effectuées.
 
-image::../images/administration_utilisateurs.png[Administration utilisateurs]
+image::../images/admin_user.png[Administration utilisateurs]
  
-
 Le menu Sauvegarde permet de gérer les sauvegardes personnelles de Jeedom. En effet Jeedom est capable de sauvegarder automatiquement ou manuellement toute sa configuration. La première partie permet de gérer les règles de sauvegardes automatiques: les fréquences, leur emplacement, et l'option pour l'envoyer sur le cloud. Une deuxième partie permet de gérer ses sauvegardes locales: restauration, suppression, téléchargement. Et enfin, pour ceux qui ont l'option sauvegarde sur le cloud: la gestion des sauvegardes sur le cloud, avec la restauration à partir du cloud. Comme pour le reste ne pas oublier de sauvegarder après toute modification de paramètre.
 
+image::../images/admin_backup.png[Administration sauvegardes]
+
+Puis le menu Centre de mise à jour. Cet menu permet de mettre à jour automatiquement Jeedom et tous ses composants (plugins, widgets, modules etc...). Une pastille vous indiquera sur l'interface q'une mise à jour est disponible, c'est ensuite ici, qu'il faudra venir pour l'effectuer en cliquant sur le bouton "Mettre à jour". Les autres options sont réservées au mode expert, elles sont à modifier en connaissance de cause.
+
+image::../images/admin_update.png[Administration mise à jour]
  
-
-Puis le menu Centre de mise à jour. Cet menu permet de mettre à jour automatiquement Jeedom et tous ses composants (plugins, widgets, modules etc...). Une pastille vous indiquera sur l'interface q'une mise à jour est disponible, c'est ensuite ici, qu'il faudra venir pour l'effectuer en cliquant sur le bouton "Mettre à jour". Les autres options sont réservées au mode expert, elles sont à modifier en connaissance de cause...
-
- 
-
 Le menu Moteur de tâche est lui, réservé au mode expert. Il résume les tâches automatiques que Jeedom est en train d'utiliser.
 
- 
+image::../images/admin_cron.png[Administration CRON]
 
 Le menu Sécurité, permet de paramétrer le système anti-piratage de Jeedom (Banissement d'IP). Il est réservé au mode Expert. Il se compose de 2 onglets. Le premier permet de voir en temps réel les machines connectées sur Jeedom, le deuxième onglet permet de paramétrer le système de banissement.
 
+image::../images/admin_security_statuts.png[Administration sécurité statut]
+image::../images/admin_security_config.png[Administration sécurité config]
  
 
 Enfin le menu Log affiche l'ensemble des logs de Jeedom, et permet un debuggage simplifié, il est réservé au mode Expert.
 
- 
-Présentation du menu interaction:
+image::../images/admin_log.png[Administration log]
+
+== Présentation du menu interaction
 
 Le menu interaction, permet de configurer l'interaction de l'utilisateur avec Jeedom de façon textuelle. En effet par l'intermédiaire de ce configurateur d'interactions, on peut piloter Jeedom à partir de mots et de phrases. Il s'agit d'un puissant outil qui permet une multitude de possibilités de questions, et de réponses. On peut ensuite utiliser ces phrases via des SMS, ou encore la commande vocale avec le projet S.A.R.A.H.
 
+image::../images/interact.png[Interaction]
  
-Présentation du menu objet:
+== Présentation du menu objet
 
 Le menu objet permet de défnir la structure de l'installation domotique. En effet quelque soit l'élément créé, module, script, scénario, plugin, widget... il sera rattaché à un objet père. Ainsi la domotique sera gérée avec une arborescence et permet une meilleure interaction. Ces objets permettent par exemple de définir les éléments de sa maison. Exemple : Objet "Maison" père de l'objet "Etage" lui même père de l'objet "Chambre". Ensuite les modules viendront se placer dans un de ces objets, et sa représentation graphique sur le Dashboard sera triée en fonction de l'objet.
 
+image::../images/object.png[Objets]
  
-Présentation du menu plugin:
+== Présentation du menu plugin
 
 Le menu plugin permet d'avoir une vision sur l'ensemble de ses plugins, c'est ici qu'ils seront téléchargés sur le Market.
 
+image::../images/plugin.png[Plugin]
  
-Présentation du menu scénario:
+== Présentation du menu scénario
 
 Le menu scénario est directement accessible depuis le bandeau. C'est ici que sont créés les scénarios pour la gestion domotique. Le créateur de scénario permet une multitude de paramétrages. Il sera détaillé plus tard.
 
+image::../images/scenarioAssist.png[Scénario]
  
-Présentation du menu historique:
+== Présentation du menu historique
 
 Le menu historique accessible sur le bandeau, permet de visualiser sous forme de graphique et dans le temps toutes les évolutions de sa domotique (température, consommation etc...).
 
+image::../images/history.png[Historique]
  
-Présentation du dashboard:
+== Présentation du dashboard:
 
 Le dashboard sera la page principale de Jeedom, celle qui s'affiche au milieu. On retrouvera l'arborescence des objets créés avec les éléments disposés à l'intérieur.
 
+image::../images/dashboard.png[Dashboard]
  
-Présentation des vues:
+== Présentation des vues
 
 Les vues sont une prolongation du Dashboard, contrairement à ce dernier, elles sont totalement paramétrables, et on peut réaliser la présentation que l'on souhaite...
 
+image::../images/view.png[Vue]
  
-Présentation des plugins:
+== Présentation des plugins
 
 Accessible directement sur le bandeau, la liste des plugins téléchargés. C'est via ce menu que l'on pourra configurer chaque plugin. Au départ ce menu sera vide (Hors box), et vous devrez donc télécharger les plugins sur le Market avant de pouvoir vous en servir.
 
- 
-Présentation du market:
+image::../images/plugin_menu.png[Menu plugin]
+
+== Présentation du market
 
 Jeedom a la particularité d'être totalement paramétrable et upgradable. Il fonctionne avec la communauté d'utilisateurs qui disposent d'un market complet, dans lequel on propose différentes applications pour Jeedom.
 
 Ce market est accessible soit via un navigateur internet avec le site Jeedom, soit directement dans l'application Jeedom.
 
-Pour profiter pleinement des possibilités du market, il faut d'abord se rendre via le navigateur sur le market. Il faut s'inscrire, puis une fois inscrit, il faut aller dans l'onglet "Profile" et copier la clé API sur fond bleu.
+Rendez-vous dans le menu Général/Plugin pour commencer à télécharger des plugins. En cliquant sur le bouton "Télécharger du market" Jeedom accèdera directement au market et il suffira de cliquer sur Installer pour lancer le téléchargement et l'installation du plugin.
 
+image::../images/plugin_market.png[Plugin market]
  
-
-Puis sur Jeedom, dans le menu Général/Administration/Configuration vu précédement, aller dans le sous-menu Market, et rentrer sa clé API copiée, et faire Sauvegarder. A présent, Jeedom est connecté au market et on peut télécharger de nouvelles applications.
-
- 
-
-Ensuite, rendez-vous dans le menu Général/Plugin pour commencer à télécharger des plugins. En cliquant sur le bouton "Télécharger du market" Jeedom accèdera directement au market et il suffira de cliquer sur Installer pour lancer le téléchargement et l'installation du plugin.
-
- 
-
 Au départ le plugin est marqué d'une croix, cela signifie qu'il n'est pas actif. Il faut penser à l'activer avec le bouton "Activer" au centre pour pouvoir s'en servir et qu'il apparaisse dans le menu plugin.
 
+image::../images/plugin_activate.png[Plugin activation]
