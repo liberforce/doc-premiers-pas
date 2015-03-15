@@ -4,50 +4,62 @@
 
 include::findJeedom.asciidoc[]
 
+'''
 === Tour du proprietaire
 
 include::intro.asciidoc[]
 
+'''
 === Présentation du sous-menu administration
 
 include::administration.asciidoc[]
 
+'''
 === Présentation du menu interaction
 
 include::interact.asciidoc[]
  
+'''
 === Présentation du menu objet
 
 include::object.asciidoc[]
  
+'''
 === Présentation du menu plugin
 
 include::menu_plugin.asciidoc[] 
 
+'''
 === Présentation du menu scénario
 
 include::scenario.asciidoc[]
  
+'''
 === Présentation du menu historique
 
 include::history.asciidoc[]
  
+'''
 === Présentation du dashboard:
 
 include::dashboard.asciidoc[]
  
+'''
 === Présentation des vues
 
 include::view.asciidoc[]
  
+'''
 === Présentation des plugins
 
 include::plugin.asciidoc[]
 
+'''
 === Présentation du market
 
 include::market.asciidoc[]
 
+'''
 === Support
 
 include::support.asciidoc[]
