@@ -1,0 +1,36 @@
+Après installation de Jeedom voici comment trouver celui-ci sur votre reseaux.
+
+. Etape 1 : télécharger le logiciel de découverte Jeedom
+
+Télécharger l'applicaiton suivante en fonction de votre système d'exploitation : 
+
+- link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7_no_UPX.zip[Windows]
+- link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7.dmg[Mac OS]
+- link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7.tar.gz[Linux]
+
+. Etape 2 : lancer l'application 
+
+En fonction du systeme d'exploitation il vous faudra peut etre decompresser l'archive puis lancer l'executable "JeedomFinder".
+
+Si vous avez des alertes de sécurité validé les, comme ici (sous windows 8.1) : 
+
+image::../images/premier-jeedomfinder1.PNG[]
+
+Cliquez sur information complementaire
+
+image::../images/premier-jeedomfinder2.PNG[]
+
+Cliquez sur executer quand meme
+
+Vous devriez avoir : 
+
+image::../images/premier-jeedomfinder3.PNG[]
+
+Faites "Lancer la recherche"
+
+image::../images/premier-jeedomfinder4.PNG[]
+
+Une fois terminé vous devriez voir apparaitre votre Jeedom, il suffit de cliquer sur le lien pour se connecter dessus, vous pouvez par la suite enregistrer ce lien en favoris dans votre navigateur.
+
+image::../images/premier-jeedomfinder5.PNG[]
+
