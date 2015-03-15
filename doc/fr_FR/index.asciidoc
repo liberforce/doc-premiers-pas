@@ -1,6 +1,5 @@
 == Premiers pas avec Jeedom
 
-'''
 === Trouver votre Jeedom sur le reseaux
 
 include::findJeedom.asciidoc[]
