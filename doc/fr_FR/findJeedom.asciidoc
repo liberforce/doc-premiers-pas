@@ -1,6 +1,6 @@
 Une fois Jeedom (box) branché électriquement, et connecté sur votre réseau local (box internet), voici comment trouver celui-ci sur votre reseaux.
 
-. Etape 1 : télécharger le logiciel de découverte Jeedom
+==== Etape 1 : télécharger le logiciel de découverte Jeedom
 
 Télécharger l'applicaiton suivante en fonction de votre système d'exploitation : 
 
@@ -8,7 +8,7 @@ Télécharger l'applicaiton suivante en fonction de votre système d'exploitatio
 - link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7.dmg[Mac OS]
 - link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7.tar.gz[Linux]
 
-. Etape 2 : lancer l'application 
+==== Etape 2 : lancer l'application 
 
 En fonction du systeme d'exploitation il vous faudra peut etre decompresser l'archive puis lancer l'executable "JeedomFinder".
 

@@ -1,6 +1,6 @@
 Nous allons voir ici comment vous pouvez trouver/demander de l'aide. En cas de question il est possible dans jeedom de trouver les reponses a plusieurs endroits : 
 
-. Dans la doc
+==== Dans la doc
 
 Vous trouverez une documentation complete link:https://doc.jeedom.fr[ici] :
 
@@ -8,19 +8,19 @@ image::../images/premier-support1.PNG[]
 
 Celle-ci se decompose en plusieurs categories, une partie pour le "coeur" de jeedom, une partie sur les modules (zwave, mySensors, rfxcom) et une derniere partie pour la documentation des plugins
 
-. Le wiki
+==== Le wiki
 
 Le wiki ressence toute les documentations faite par les utilisateurs, disponible link:https://wiki.jeedom.fr/[ici] il est une vrai mines d'informations (et pas que sur jeedom)
 
 image::../images/premier-support2.PNG[]
 
-. Le forum
+==== Le forum
 
 Disponible link:https://forum.jeedom.fr/[ici], le forum est très actif et contient enormement d'information, si vous avez une question n'hesitez pas a la poser vous aurez une reponse en moins d'une heure (en moyenne)
 
 image::../images/premier-support3.PNG[]
 
-. Les demandes de support (ou ticket)
+==== Les demandes de support (ou ticket)
 
 [panel,danger]
 .Condition d'utilisation
