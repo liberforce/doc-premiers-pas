@@ -1,0 +1,3 @@
+Le menu objet permet de défnir la structure de l'installation domotique. En effet quelque soit l'élément créé, module, script, scénario, plugin, widget... il sera rattaché à un objet père. Ainsi la domotique sera gérée avec une arborescence et permet une meilleure interaction. Ces objets permettent par exemple de définir les éléments de sa maison. Exemple : Objet "Maison" père de l'objet "Etage" lui même père de l'objet "Chambre". Ensuite les modules viendront se placer dans un de ces objets, et sa représentation graphique sur le Dashboard sera triée en fonction de l'objet.
+
+image::../images/premier-object.png[Objets]

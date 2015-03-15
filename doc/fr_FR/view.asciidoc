@@ -1,0 +1,3 @@
+Les vues sont une prolongation du Dashboard, contrairement à ce dernier, elles sont totalement paramétrables, et on peut réaliser la présentation que l'on souhaite...
+
+image::../images/premier-view.png[Vue]

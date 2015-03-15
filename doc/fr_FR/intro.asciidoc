@@ -1,0 +1,25 @@
+Première connexion, la page est vide, en haut se trouve un bandeau avec les menus principaux de Jeedom.
+
+image::../images/premier-main_menu.png[Menu]
+
+A gauche se trouve la liste des futurs objets qui composeront la future installation domotique. Au départ cette liste est vide, ce sera à vous de la configurer. Ces objets seront expliqués par la suite.
+
+image::../images/premier-object_list.png[Liste objets]
+
+En haut, à droite, dans le bandeau se trouve les options de login. Un bouton qui amène à la configuration du profil. Et un autre bouton qui permet de choisir l'option d'affichage. En effet Jeedom propose 2 affichages pour ne pas surcharger l'interface utilisateur inutilement dans le cadre d'une utilisation classique. C'est pour cela que Jeedom propose un mode "Expert" à activer en fonction des besoins. Dans la documentation, ce mode Expert sera activé.
+
+image::../images/premier-user_menu.png[Menu utilisateur]
+
+Ici les différentes options du profil :
+
+image::../images/premier-user_profil_theme.png[Profil utilisateur - Theme]
+
+image::../images/premier-user_profil_interface.png[Profil utilisateur - Interface]
+
+image::../images/premier-user_profil_notification.png[Profil utilisateur - Notifications]
+
+image::../images/premier-user_profil_other.png[Profil utilisateur - Autre]
+
+Le menu général de Jeedom dans lequel on va retrouver plusieurs fonctions principales de Jeedom :
+
+image::../images/premier-general_menu.png[Menu général]

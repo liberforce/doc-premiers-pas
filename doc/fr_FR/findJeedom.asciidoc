@@ -1,4 +1,4 @@
-Après installation de Jeedom voici comment trouver celui-ci sur votre reseaux.
+Une fois Jeedom (box) branché électriquement, et connecté sur votre réseau local (box internet), voici comment trouver celui-ci sur votre reseaux.
 
 . Etape 1 : télécharger le logiciel de découverte Jeedom
 
@@ -34,3 +34,6 @@ Une fois terminé vous devriez voir apparaitre votre Jeedom, il suffit de clique
 
 image::../images/premier-jeedomfinder5.PNG[]
 
+Une page avec login s'affiche, par défaut le login et le mot de passe sont "admin"
+
+image::../images/premier-jeedomfinder6.PNG[]

@@ -1,0 +1,3 @@
+Le dashboard sera la page principale de Jeedom, celle qui s'affiche au milieu. On retrouvera l'arborescence des objets créés avec les éléments disposés à l'intérieur.
+
+image::../images/premier-dashboard.png[Dashboard]

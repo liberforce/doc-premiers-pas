@@ -1,0 +1,11 @@
+Jeedom a la particularité d'être totalement paramétrable et upgradable. Il fonctionne avec la communauté d'utilisateurs qui disposent d'un market complet, dans lequel on propose différentes applications pour Jeedom.
+
+Ce market est accessible soit via un navigateur internet avec le site Jeedom, soit directement dans l'application Jeedom.
+
+Rendez-vous dans le menu Général/Plugin pour commencer à télécharger des plugins. En cliquant sur le bouton "Télécharger du market" Jeedom accèdera directement au market et il suffira de cliquer sur Installer pour lancer le téléchargement et l'installation du plugin.
+
+image::../images/premier-plugin_market.png[Plugin market]
+ 
+Au départ le plugin est marqué d'une croix, cela signifie qu'il n'est pas actif. Il faut penser à l'activer avec le bouton "Activer" au centre pour pouvoir s'en servir et qu'il apparaisse dans le menu plugin.
+
+image::../images/premier-plugin_activate.png[Plugin activation]
