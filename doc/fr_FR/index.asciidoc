@@ -1,13 +1,19 @@
 == Premiers pas avec Jeedom
 
-=== Trouver votre Jeedom sur le reseaux
+=== Introduction
+
+include::intro.asciidoc[]
+
+'''
+
+=== Trouver votre Jeedom sur le réseau
 
 include::findJeedom.asciidoc[]
 
 '''
-=== Tour du proprietaire
+=== Tour du propriétaire
 
-include::intro.asciidoc[]
+include::tour.asciidoc[]
 
 '''
 === Présentation du sous-menu administration
@@ -15,17 +21,22 @@ include::intro.asciidoc[]
 include::administration.asciidoc[]
 
 '''
-=== Présentation du menu interaction
+=== Présentation du menu intéraction
 
 include::interact.asciidoc[]
- 
+
+'''
+=== Présentation du menu affichage
+
+include::display.asciidoc[]
+
 '''
 === Présentation du menu objet
 
 include::object.asciidoc[]
  
 '''
-=== Présentation du menu plugin
+=== Présentation du menu plugin et du market
 
 include::menu_plugin.asciidoc[] 
 
@@ -48,16 +59,16 @@ include::dashboard.asciidoc[]
 === Présentation des vues
 
 include::view.asciidoc[]
+
+'''
+=== Présentation des designs
+
+include::design.asciidoc[]
  
 '''
 === Présentation des plugins
 
 include::plugin.asciidoc[]
-
-'''
-=== Présentation du market
-
-include::market.asciidoc[]
 
 '''
 === Support

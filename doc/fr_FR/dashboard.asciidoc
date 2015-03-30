@@ -1,3 +1,15 @@
-Le dashboard sera la page principale de Jeedom, celle qui s'affiche au milieu. On retrouvera l'arborescence des objets créés avec les éléments disposés à l'intérieur.
+Le dashboard est la page principale de Jeedom.
 
-image::../images/premier-dashboard.png[Dashboard]
+image::../images/premier-dashboard1.png[Dashboard]
+
+On trouve à gauche la liste des objets qui composent l'installation domotique (on peut afficher ou masquer cette liste).
+
+image::../images/premier-dashboard2.png[Liste objets]
+
+On retrouvera au centre l’arborescence des objets créés avec les éléments disposés à l’intérieur.
+
+image::../images/premier-dashboard3.png[Centre]
+
+A droite se trouve la liste des scénarios (on peut également afficher ou masquer cette liste).
+
+image::../images/premier-dashboard4.png[Scénario]
