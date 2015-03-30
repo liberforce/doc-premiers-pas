@@ -1,36 +1,71 @@
-Le sous-menu administration permet de configurer Jeedom.
+Le sous-menu "Administrationa permet de réaliser la configuration de Jeedom. Celui-ci est composé de plusieurs sous-menus.
 
 image::../images/premier-general_admin_menu.png[Menu administration]
 
-Le premier menu est le menu Configuration, sensiblement réservée au mode expert, il sera détaillé plus tard.
+Le premier menu "Configuration", sensiblement réservé au mode expert, rassemble toute la configuration de Jeedom. Elle est détaillée dans la documentation complète de Jeedom : link:http://doc.jeedom.fr/[Jeedom documentation].
 
 image::../images/premier-admin_administration.png[Administration configuration]
 
-Ensuite il y a le menu utilisateur.
-La première chose à faire est de modifier le mot de passe admin, ou de créer un nouveau compte utilisateur avec les droits d'administrateur.
-Ensuite, pour une utilisation normale il sera possible de créer d'autres comptes utilisateurs. Ces modifications se font très facilement via les boutons "Changer mot de passe" et "Ajouter un utilisateur".
-Ne pas oublier de cliquer sur le bouton "Sauvegarder" une fois les modifications effectuées.
+Dans le menu "Utilisateurs" vous trouverez la liste de tous les utilisateurs de Jeedom. +
+Une des premières opérations à effectuer dans ce menu est la modification du mot de passe admin (si vous ne l'avez pas déjà fait précédemment), ou de créer un nouveau compte utilisateur avec les droits d'administrateur.
+Ensuite, pour une utilisation normale de Jeedom il est possible de créer d'autres comptes utilisateurs sans les droits Admin.
+
+Ces modifications se font très facilement via les boutons "Changer mot de passe" et "Ajouter un utilisateur".
+
+NOTE: Ne pas oublier de cliquer sur le bouton "Sauvegarder" pour enregistrer les modifications.
 
 image::../images/premier-admin_user.png[Administration utilisateurs]
  
-Le menu Sauvegarde permet de gérer les sauvegardes personnelles de Jeedom. En effet Jeedom est capable de sauvegarder automatiquement ou manuellement toute sa configuration. La première partie permet de gérer les règles de sauvegardes automatiques: les fréquences, leur emplacement, et l'option pour l'envoyer sur le cloud. Une deuxième partie permet de gérer ses sauvegardes locales: restauration, suppression, téléchargement. Et enfin, pour ceux qui ont l'option sauvegarde sur le cloud: la gestion des sauvegardes sur le cloud, avec la restauration à partir du cloud. Comme pour le reste ne pas oublier de sauvegarder après toute modification de paramètre.
+Le menu "Sauvegardes" permet de gérer les sauvegardes personnelles de Jeedom. +
+En effet, Jeedom est capable de sauvegarder automatiquement ou manuellement toute sa configuration :
+
+- La première partie permet de gérer les règles de sauvegardes automatiques: les fréquences, leur emplacement, et l'option pour l'envoyer sur le cloud (option payante).
+- La deuxième partie permet de gérer ses sauvegardes locales: restauration, suppression, téléchargement.
+- Et dans la dernière partie, pour ceux qui ont souscrit à l'option sauvegarde sur le cloud: la gestion des sauvegardes sur le cloud, avec la restauration à partir du cloud.
+
+NOTE: Ne pas oublier de cliquer sur le bouton "Sauvegarder" pour enregistrer les modifications.
 
 image::../images/premier-admin_backup.png[Administration sauvegardes]
 
-Puis le menu Centre de mise à jour. Cet menu permet de mettre à jour automatiquement Jeedom et tous ses composants (plugins, widgets, modules etc...). Une pastille vous indiquera sur l'interface q'une mise à jour est disponible, c'est ensuite ici, qu'il faudra venir pour l'effectuer en cliquant sur le bouton "Mettre à jour". Les autres options sont réservées au mode expert, elles sont à modifier en connaissance de cause.
+Le menu "Centre de mise à jour" permet de mettre à jour Jeedom et tous ces composants automatiquement (plugins, widgets, modules etc...). +
+Une vérification de la mise à jour s'effectue tous les jours et il est possible de forcer la vérification des mises jours en cliquant sur le bouton "Vérifier les objets et mises à jour". +
+Lorsqu'une mise à jour est disponible une notification s'affichera dans l'interface.
 
-image::../images/premier-admin_update.png[Administration mise à jour]
+image::../images/premier-admin_update1.png[Notification mise à jour]
+Il faudra se rendre dans ce menu pour effectuer la mise à jour en cliquant sur le bouton "Mettre à jour". +
+
+NOTE: Les autres options sont réservées au mode expert, elles sont à modifier en connaissance de cause.
+
+image::../images/premier-admin_update2.png[Administration mise à jour]
  
-Le menu Moteur de tâche est lui, réservé au mode expert. Il résume les tâches automatiques que Jeedom est en train d'utiliser.
+Le menu "Moteur de tâche" est lui, réservé au mode expert. 
+
+Il résume le lancement des tâches automatiques que Jeedom est en train d'utiliser. Ce menu permet aussi d'activer, désactiver, stopper et relancer une tache. 
+
+WARNING: Cela peux nuire au bon fonctionnement de Jeedom
 
 image::../images/premier-admin_cron.png[Administration CRON]
 
-Le menu Sécurité, permet de paramétrer le système anti-piratage de Jeedom (Banissement d'IP). Il est réservé au mode Expert. Il se compose de 2 onglets. Le premier permet de voir en temps réel les machines connectées sur Jeedom, le deuxième onglet permet de paramétrer le système de banissement.
+Le menu "Sécurité", réservé au mode expert, permet de paramétrer le système anti-piratage de Jeedom (Banissement d'IP), il se compose de 2 onglets :
+
+- Le premier onglet permet de voir en temps réel les machines connectées sur Jeedom
+- Le deuxième onglet permet le paramétrage du système de banissement.
 
 image::../images/premier-admin_security_statuts.png[Administration sécurité statut]
 image::../images/premier-admin_security_config.png[Administration sécurité config]
  
-
-Enfin le menu Log affiche l'ensemble des logs de Jeedom, et permet un debuggage simplifié, il est réservé au mode Expert.
+Le menu "Log", réservé au mode Expert, permet d'afficher l'ensemble des journaux de Jeedom et permet un débugage simplifié.
 
 image::../images/premier-admin_log.png[Administration log]
+
+Le menu "Informations système", réservé au mode expert, permet d'afficher les informations système de votre Jeedom.
+On y retrouve entre autre, des informations matériels, système, utilisation de la mémoire, ...
+
+image::../images/premier-sysinfo.png[Informations système]
+
+Le menu "Personnalisation avancée", permet de forcer des styles ou du code Javascript dans toute l'interface Jeedom "Desktop" et "Mobile"
+
+WARNING: Attention tout ce que vous écrivez ici est global et inclus sur toutes les pages, la moindre erreur peut rendre votre jeedom non fonctionel 
+
+image::../images/premier-custom.png[Personnalisation avancée]
+
