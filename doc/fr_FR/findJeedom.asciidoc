@@ -4,9 +4,11 @@ Une fois Jeedom branché électriquement et connecté à votre réseau local, vo
 
 Télécharger l'application Jeedom Finder selon votre système d'exploitation : 
 
-- link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7_no_UPX.zip[Windows]
+- link:https://storage.sbg-1.runabove.io/v1/AUTH_9e56802a13e248a5965539bd45eb4ede/gitlab-ci/JeedomFinder/e99b0fe/JeedomFinder-Win32.zip[Windows]
 - link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7.dmg[Mac OS]
-- link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7.tar.gz[Linux]
+- link:https://storage.sbg-1.runabove.io/v1/AUTH_9e56802a13e248a5965539bd45eb4ede/gitlab-ci/JeedomFinder/e99b0fe/JeedomFinder-Ubuntu-12.04-amd64.tar.gzz[Linux]
+
+Merci à link:https://github.com/K0n24d/JeedomFinder[k0n24d] pour l'application
 
 ==== Etape 2 : Lancer l'application 
 
