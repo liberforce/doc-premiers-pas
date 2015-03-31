@@ -46,7 +46,9 @@ Le menu "Moteur de tâche" est lui, réservé au mode expert.
 
 Il résume le lancement des tâches automatiques que Jeedom est en train d'utiliser. Ce menu permet aussi d'activer, désactiver, stopper et relancer une tache. 
 
-WARNING: Cela peux nuire au bon fonctionnement de Jeedom
+[icon="../images/plugin/important.png"]
+[IMPORTANT]
+Cela peux nuire au bon fonctionnement de Jeedom
 
 image::../images/premier-admin_cron.png[Administration CRON]
 
@@ -69,7 +71,9 @@ image::../images/premier-sysinfo.png[Informations système]
 
 Le menu "Personnalisation avancée", permet de forcer des styles ou du code Javascript dans toute l'interface Jeedom "Desktop" et "Mobile"
 
-WARNING: Attention tout ce que vous écrivez ici est global et inclus sur toutes les pages, la moindre erreur peut rendre votre jeedom non fonctionel 
+[icon="../images/plugin/important.png"]
+[IMPORTANT]
+Attention tout ce que vous écrivez ici est global et inclus sur toutes les pages, la moindre erreur peut rendre votre jeedom non fonctionel 
 
 image::../images/premier-custom.png[Personnalisation avancée]
 
