@@ -23,7 +23,9 @@ En effet, Jeedom est capable de sauvegarder automatiquement ou manuellement tout
 - La deuxième partie permet de gérer ses sauvegardes locales: restauration, suppression, téléchargement.
 - Et dans la dernière partie, pour ceux qui ont souscrit à l'option sauvegarde sur le cloud: la gestion des sauvegardes sur le cloud, avec la restauration à partir du cloud.
 
-NOTE: Ne pas oublier de cliquer sur le bouton "Sauvegarder" pour enregistrer les modifications.
+[icon="../images/plugin/tip.png"]
+[TIP]
+Ne pas oublier de cliquer sur le bouton "Sauvegarder" pour enregistrer les modifications.
 
 image::../images/premier-admin_backup.png[Administration sauvegardes]
 
@@ -34,7 +36,9 @@ Lorsqu'une mise à jour est disponible une notification s'affichera dans l'inter
 image::../images/premier-admin_update1.png[Notification mise à jour]
 Il faudra se rendre dans ce menu pour effectuer la mise à jour en cliquant sur le bouton "Mettre à jour". +
 
-NOTE: Les autres options sont réservées au mode expert, elles sont à modifier en connaissance de cause.
+[icon="../images/plugin/tip.png"]
+[TIP]
+Les autres options sont réservées au mode expert, elles sont à modifier en connaissance de cause.
 
 image::../images/premier-admin_update2.png[Administration mise à jour]
  

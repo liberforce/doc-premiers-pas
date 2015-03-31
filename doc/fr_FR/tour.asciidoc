@@ -8,7 +8,9 @@ image::../images/premier-mobile.png[Mobile]
 
 Au début, les contenus de ces pages sont vide, elles seront enrichies au fur et à mesure de l'ajout de nouveaux équipements, objets ,...
 
-TIP: Dans ce guide, nous traiterons l'interface "desktop"
+[icon="../images/plugin/tip.png"]
+[TIP]
+Dans ce guide, nous traiterons l'interface "desktop"
 
 On retrouve dans la partie haute un bandeau avec les menus principaux de Jeedom. Ce bandeau est affiché dans l'ensemble des pages de Jeedom.
 
@@ -48,7 +50,9 @@ Le menu "Profil de l'utilisateur" courant est composé de différents sous-menus
 - "Version mobile" permet de basculer ver l'affichage de l'interface "Mobile"
 - "Se deconnecter" permet de se déconnecter de Jeedom et donc de ne pas laisser la session ouverte
 
-TIP: Pour cette présentation le mode "Expert" sera activé.
+[icon="../images/plugin/tip.png"]
+[TIP]
+Pour cette présentation le mode "Expert" sera activé.
 
 === Présentation du menu Profil de l'utilisateur courant
  

@@ -1,7 +1,9 @@
 C'est dans ce menu que s'effectue la gestion de vos plugins car Jeedom a la particularité d'être totalement paramétrable et upgradable à travers le "Market".
 Le "Market" fonctionne avec la communauté d'utilisateurs qui disposent d'un market complet, dans lequel on propose différentes applications pour Jeedom.
 
-TIP: Le "Market" est également consultable en ligne à partir du site internet de Jeedom link::https://market.jeedom.fr/[Lien vers le Market]
+[icon="../images/plugin/tip.png"]
+[TIP]
+Le "Market" est également consultable en ligne à partir du site internet de Jeedom link::https://market.jeedom.fr/[Lien vers le Market]
 
 - Ajouter un plugin à partir du market
 - Activer et désactiver un plugin

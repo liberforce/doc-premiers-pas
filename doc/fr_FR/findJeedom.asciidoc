@@ -29,7 +29,9 @@ image::../images/premier-jeedomfinder3.PNG[]
 
 Procéder ensuite au lancement de la recherche en cliquant sur "Lancer la recherche".
 
-NOTE: La recherche peut-être longue en fonction de votre réseau.
+[icon="../images/plugin/tip.png"]
+[TIP]
+La recherche peut-être longue en fonction de votre réseau.
 
 image::../images/premier-jeedomfinder4.PNG[]
 
@@ -40,6 +42,8 @@ image::../images/premier-jeedomfinder5.PNG[]
 
 Vous arrivez ensuite sur la page de login. Par défaut le login et le mot de passe sont "admin".
 
-IMPORTANT: Pour des raisons de sécurité évidente, il est recommandé de modifier par la suite le mot de passe par défaut de ce compte.
+[icon="../images/plugin/important.png"]
+[IMPORTANT]
+Pour des raisons de sécurité évidente, il est recommandé de modifier par la suite le mot de passe par défaut de ce compte.
 
 image::../images/premier-jeedomfinder6.PNG[]

@@ -15,4 +15,6 @@ Il suffit ensuite d'affecter un objet parent à celui-ci et de modifier les opti
 
 image::../images/premier-object3.png[Objets suite]
 
-NOTE: Ne pas oublier de cliquer sur le bouton "Sauvegarder" pour enregistrer les modifications.
+[icon="../images/plugin/tip.png"]
+[TIP]
+Ne pas oublier de cliquer sur le bouton "Sauvegarder" pour enregistrer les modifications.
