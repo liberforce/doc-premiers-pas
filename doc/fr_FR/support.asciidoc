@@ -22,11 +22,9 @@ image::../images/premier-support3.PNG[]
 
 ==== Les demandes de support (ou ticket)
 
-[panel,danger]
-.Condition d'utilisation
---
+[icon="../images/plugin/important.png"]
+[IMPORTANT]
 Attention, toute demande de support nécessite obligatoirement d'avoir un compte sur le market.
---
 
 Si vous n'avez pas trouvé de solution à votre problème, vous pouvez en dernier recours faire une demande de support à l'équipe Jeedom : cette demande passe par un ticket. Il est possible d'en ouvrir un de plusieurs façons : 
 

@@ -52,7 +52,7 @@ include::scenario.asciidoc[]
 include::history.asciidoc[]
  
 '''
-=== Présentation du dashboard:
+=== Présentation du dashboard
 
 include::dashboard.asciidoc[]
  

@@ -2,8 +2,8 @@ Le menu affichage permet d'afficher l'arbre des commandes disponibles dans votre
 
 Un onglet "Arbre domotique"
  
-image::../images/premier-display1.PNG[Affichage onglet arbre]
+image::../images/premier-display1.png[Affichage onglet arbre]
 
 Et un autre onglet "Configuration de l’affichage"
 
-image::../images/premier-display2.PNG[Affichage configuration de l’affichage]
+image::../images/premier-display2.png[Affichage configuration de l’affichage]
