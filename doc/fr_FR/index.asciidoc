@@ -1,3 +1,4 @@
+:icons:
 == Premiers pas avec Jeedom
 
 === Introduction
