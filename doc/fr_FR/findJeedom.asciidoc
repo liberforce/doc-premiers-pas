@@ -4,9 +4,9 @@ Une fois Jeedom (box) branché électriquement, et connecté sur votre réseau l
 
 Télécharger l'applicaiton suivante en fonction de votre système d'exploitation : 
 
-- link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7_no_UPX.zip[Windows]
-- link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7.dmg[Mac OS]
-- link:https://github.com/K0n24d/JeedomFinder/releases/download/v0.7/JeedomFinder-0.7.tar.gz[Linux]
+- link:http://files.knauber.net/JeedomFinder/JeedomFinder-Win32.zip[Windows]
+- link:http://files.knauber.net/JeedomFinder/JeedomFinder.dmg[Mac OS]
+- link:http://files.knauber.net/JeedomFinder/JeedomFinder-Ubuntu-12.04-amd64.tar.gz[Linux]
 
 ==== Etape 2 : lancer l'application 
 
