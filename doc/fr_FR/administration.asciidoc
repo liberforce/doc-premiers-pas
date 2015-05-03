@@ -13,7 +13,9 @@ Ensuite, pour une utilisation normale de Jeedom il est possible de créer d'autr
 
 Ces modifications se font très facilement via les boutons "Changer mot de passe" et "Ajouter un utilisateur".
 
-NOTE: Ne pas oublier de cliquer sur le bouton "Sauvegarder" pour enregistrer les modifications.
+[icon="../images/plugin/tip.png"]
+[TIP]
+Ne pas oublier de cliquer sur le bouton "Sauvegarder" pour enregistrer les modifications.
 
 image::../images/premier-admin_user.png[Administration utilisateurs]
  
