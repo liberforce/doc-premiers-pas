@@ -1,6 +1,6 @@
 Le menu "Design" permet de configurer l’affichage de toute votre domotique de manière très fine. Celle-ci demande du temps mais sa seule limite est votre imagination.
 
-image::../images/premier-design.PNG[Mode design]
+image::../images/premier-design.png[Mode design]
 
 Vous trouverez des exemples réalisés par nos utilisateurs dans le forum link:https://forum.jeedom.fr/viewtopic.php?f=59&t=2671[Concours mode design]
 
