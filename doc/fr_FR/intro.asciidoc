@@ -3,4 +3,4 @@ Bienvenue dans cette présentation rapide de Jeedom. Ce guide vous permettra de 
 
 [icon="../images/plugin/tip.png"]
 [TIP]
-Ce guide n'a pas vocation à se substituer à la documentation complète disponible sur le site Jeedom link:http://doc.jeedom.fr/[ici]
+Ce guide n'a pas vocation à se substituer à la documentation complète disponible sur le site Jeedom https://jeedom.fr/doc[ici]

@@ -2,7 +2,7 @@ Nous allons voir ici comment vous pouvez trouver/demander de l'aide. En cas de q
 
 ==== Dans la doc
 
-Vous trouverez une documentation complète link:https://doc.jeedom.fr[ici] :
+Vous trouverez une documentation complète https://jeedom.fr/doc[ici] :
 
 image::../images/premier-support1.PNG[]
 

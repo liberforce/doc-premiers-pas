@@ -3,7 +3,7 @@ Le sous-menu "Administration permet de réaliser la configuration de Jeedom. Cel
 image::../images/premier-general_admin_menu.png[Menu administration]
 
 Le premier menu "Configuration", sensiblement réservé au mode expert, rassemble toute la configuration de Jeedom. 
-Elle est détaillée dans la documentation complète de Jeedom : link:http://doc.jeedom.fr/[Jeedom documentation].
+Elle est détaillée dans la documentation complète de Jeedom : https://jeedom.fr/doc[Jeedom documentation].
 
 image::../images/premier-admin_administration.png[Administration configuration]
 
