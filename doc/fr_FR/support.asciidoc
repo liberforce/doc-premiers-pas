@@ -2,21 +2,15 @@ Nous allons voir ici comment vous pouvez trouver/demander de l'aide. En cas de q
 
 ==== Dans la doc
 
-Vous trouverez une documentation complète https://jeedom.fr/doc[ici] :
+Vous trouverez une documentation complète link:https://jeedom.fr/doc[ici] :
 
 image::../images/premier-support1.PNG[]
 
 Celle-ci se décompose en plusieurs categories : une partie pour le "coeur" de jeedom, une partie sur les modules (zwave, mySensors, rfxcom) et une derniere partie pour la documentation des plugins
 
-==== Le wiki
-
-Le wiki ressence toutes les documentations faites par les utilisateurs, disponible link:https://wiki.jeedom.fr/[ici]. Il est une vraie mine d'informations (et pas que sur jeedom).
-
-image::../images/premier-support2.PNG[]
-
 ==== Le forum
 
-Disponible link:https://forum.jeedom.fr/[ici], le forum est très actif et contient énormement d'informations. Si vous avez une question, n'hésitez pas à la poser, vous aurez une réponse en moins d'une heure (en moyenne).
+Disponible link:https://jeedom.fr/forum[ici], le forum est très actif et contient énormement d'informations. Si vous avez une question, n'hésitez pas à la poser, vous aurez une réponse en moins d'une heure (en moyenne).
 
 image::../images/premier-support3.PNG[]
 
@@ -49,6 +43,6 @@ En effet, en fonction de votre service pack vous êtes limité à un certain nom
 - Power : 10 tickets/mois
 - Pro :  100 tickets/mois
 
-Vous pouvez retrouver le détail des services pack link:https://blog.jeedom.fr/?p=1215[ici]
+Vous pouvez retrouver le détail des services pack link:https://jeedom.fr/blog/?p=1215[ici]
 
 --
