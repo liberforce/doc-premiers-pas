@@ -1,6 +1,6 @@
 Une fois Jeedom branché électriquement et connecté à votre réseau local, voici comment découvir son adresse IP avec le logiciel Jeedom Finder.
 
-==== Etape 1 : Télécharger le logiciel de découverte Jeedom (Jeedom Finder)
+=== Etape 1 : Télécharger le logiciel de découverte Jeedom (Jeedom Finder)
 
 Télécharger l'application Jeedom Finder selon votre système d'exploitation : 
 
@@ -10,7 +10,7 @@ Télécharger l'application Jeedom Finder selon votre système d'exploitation :
 
 Merci à link:https://github.com/K0n24d/JeedomFinder[k0n24d] pour l'application
 
-==== Etape 2 : Lancer l'application 
+=== Etape 2 : Lancer l'application 
 
 En fonction de votre système d'exploitation, il faudra peut être décompresser l'archive puis lancer l'éxecutable "JeedomFinder".
 
@@ -29,7 +29,6 @@ image::../images/premier-jeedomfinder3.PNG[]
 
 Procéder ensuite au lancement de la recherche en cliquant sur "Lancer la recherche".
 
-[icon="../images/plugin/tip.png"]
 [TIP]
 La recherche peut-être longue en fonction de votre réseau.
 
@@ -42,7 +41,6 @@ image::../images/premier-jeedomfinder5.PNG[]
 
 Vous arrivez ensuite sur la page de login. Par défaut le login et le mot de passe sont "admin".
 
-[icon="../images/plugin/important.png"]
 [IMPORTANT]
 Pour des raisons de sécurité évidente, il est recommandé de modifier par la suite le mot de passe par défaut de ce compte.
 

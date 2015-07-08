@@ -8,7 +8,6 @@ image::../images/premier-mobile.png[Mobile]
 
 Au début, les contenus de ces pages sont vide, elles seront enrichies au fur et à mesure de l'ajout de nouveaux équipements, objets ,...
 
-[icon="../images/plugin/tip.png"]
 [TIP]
 Dans ce guide, nous traiterons l'interface "desktop"
 
@@ -50,7 +49,6 @@ Le menu "Profil de l'utilisateur" courant est composé de différents sous-menus
 - "Version mobile" permet de basculer ver l'affichage de l'interface "Mobile"
 - "Se deconnecter" permet de se déconnecter de Jeedom et donc de ne pas laisser la session ouverte
 
-[icon="../images/plugin/tip.png"]
 [TIP]
 Pour cette présentation le mode "Expert" sera activé.
 

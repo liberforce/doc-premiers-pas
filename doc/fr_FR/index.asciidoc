@@ -1,77 +1,60 @@
-:icons:
-== Premiers pas avec Jeedom
+= Premiers pas avec Jeedom
 
-=== Introduction
-
+== Introduction
 include::intro.asciidoc[]
 
 '''
-
-=== Trouver votre Jeedom sur le réseau
-
+== Trouver votre Jeedom sur le réseau
 include::findJeedom.asciidoc[]
 
 '''
-=== Tour du propriétaire
-
+== Tour du propriétaire
 include::tour.asciidoc[]
 
 '''
-=== Présentation du sous-menu administration
-
+== Présentation du sous-menu administration
 include::administration.asciidoc[]
 
 '''
-=== Présentation du menu intéraction
-
+== Présentation du menu intéraction
 include::interact.asciidoc[]
 
 '''
-=== Présentation du menu affichage
-
+== Présentation du menu affichage
 include::display.asciidoc[]
 
 '''
-=== Présentation du menu objet
-
+== Présentation du menu objet
 include::object.asciidoc[]
  
 '''
-=== Présentation du menu plugin et du market
-
+== Présentation du menu plugin et du market
 include::menu_plugin.asciidoc[] 
 
 '''
-=== Présentation du menu scénario
-
+== Présentation du menu scénario
 include::scenario.asciidoc[]
  
 '''
-=== Présentation du menu historique
-
+== Présentation du menu historique
 include::history.asciidoc[]
  
 '''
-=== Présentation du dashboard
-
+== Présentation du dashboard
 include::dashboard.asciidoc[]
  
 '''
-=== Présentation des vues
-
+== Présentation des vues
 include::view.asciidoc[]
 
 '''
-=== Présentation des designs
-
+== Présentation des designs
 include::design.asciidoc[]
- 
-'''
-=== Présentation des plugins
 
+'''
+== Présentation des plugins
 include::plugin.asciidoc[]
 
 '''
-=== Support
-
+== Support
 include::support.asciidoc[]

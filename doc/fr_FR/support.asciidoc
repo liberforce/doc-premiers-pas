@@ -1,6 +1,6 @@
 Nous allons voir ici comment vous pouvez trouver/demander de l'aide. En cas de question, il est possible dans jeedom de trouver les réponses à plusieurs endroits : 
 
-==== Dans la doc
+=== Dans la doc
 
 Vous trouverez une documentation complète link:https://jeedom.fr/doc[ici] :
 
@@ -8,15 +8,14 @@ image::../images/premier-support1.PNG[]
 
 Celle-ci se décompose en plusieurs categories : une partie pour le "coeur" de jeedom, une partie sur les modules (zwave, mySensors, rfxcom) et une derniere partie pour la documentation des plugins
 
-==== Le forum
+=== Le forum
 
 Disponible link:https://jeedom.fr/forum[ici], le forum est très actif et contient énormement d'informations. Si vous avez une question, n'hésitez pas à la poser, vous aurez une réponse en moins d'une heure (en moyenne).
 
 image::../images/premier-support3.PNG[]
 
-==== Les demandes de support (ou ticket)
+=== Les demandes de support (ou ticket)
 
-[icon="../images/plugin/important.png"]
 [IMPORTANT]
 Attention, toute demande de support nécessite obligatoirement d'avoir un compte sur le market.
 
@@ -34,15 +33,11 @@ Suite à une ouverture de ticket, vous allez recevoir un mail (sur l'adresse mai
 
 
 
-[panel,primary]
-.Lors de l'ouverture de ticket, j'ai une erreur m'indiquant que j'ai atteint mon quota
---
+Lors de l'ouverture de ticket, j'ai une erreur m'indiquant que j'ai atteint mon quota::
 En effet, en fonction de votre service pack vous êtes limité à un certain nombre de demande de support par mois : 
 
 - Community (gratuit) : 2 tickets/mois
 - Power : 10 tickets/mois
 - Pro :  100 tickets/mois
 
-Vous pouvez retrouver le détail des services pack link:https://jeedom.fr/blog/?p=1215[ici]
-
---
+Vous pouvez retrouver le détail des services pack link:https://jeedom.fr/doc/documentation/core/fr_FR/doc-core-service_pack.html[ici]

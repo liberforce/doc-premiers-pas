@@ -5,7 +5,7 @@ image::../images/premier-scenarioAssist1.png[Scénario]
 
 Nous verrons comment créer un scénario de type Simple, à travers l'assisant, dans le mode "Interface Simple"
 
-==== Etape 1 : Nouveau scénario
+=== Etape 1 : Nouveau scénario
 
 Cliquer sur le bouton "Nouveau scénario"
 
@@ -13,7 +13,7 @@ image::../images/premier-scenarioAssist2.png[Assistant]
 
 Un popin s'affiche, il faut donner un nom au scénario, puis cliquer sur le bouton "D'accord".
 
-==== Etape 2 : Création du scénario
+=== Etape 2 : Création du scénario
 
 La fenêtre ci-dessous apparait :
 
@@ -21,7 +21,7 @@ image::../images/premier-scenarioAssist3.png[Création]
 
 On peut donner une description au scénario, le rendre inactif ou non, voir le dernier lancement et sont état.
 
-==== Etape 3 : Condition "Si"
+=== Etape 3 : Condition "Si"
 
 Il faut ensuite remplir la condition d'execution. Dans notre exemple, nous allons programmer l'allumage d'un lampe tous les jours à 18h00. Il est aussi possible d'utiliser le mode "Déclenchement" qui permet, à partir du déclenchement d'un évenement, d'executer une action.
 
@@ -30,7 +30,7 @@ Il est possible de rajouter des conditions supplémentaires en cliquant sur "Con
 
 image::../images/premier-scenarioAssist4.png[Si]
 
-==== Etape 4 : Action "Alors"
+=== Etape 4 : Action "Alors"
 
 Dans la partie "Alors" on rajoute la ou les actions en cliquant sur le bouton "Ajouter une action".
 Dans notre cas, on ajoute l'action d'allumage "On" de la lampe appelée "Escalier" du "Demi-niveau".

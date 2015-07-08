@@ -13,7 +13,6 @@ Ensuite, pour une utilisation normale de Jeedom il est possible de créer d'autr
 
 Ces modifications se font très facilement via les boutons "Changer mot de passe" et "Ajouter un utilisateur".
 
-[icon="../images/plugin/tip.png"]
 [TIP]
 Ne pas oublier de cliquer sur le bouton "Sauvegarder" pour enregistrer les modifications.
 
@@ -26,7 +25,6 @@ En effet, Jeedom est capable de sauvegarder automatiquement ou manuellement tout
 - La deuxième partie permet de gérer ses sauvegardes locales: restauration, suppression, téléchargement.
 - Et dans la dernière partie, pour ceux qui ont souscrit à l'option sauvegarde sur le cloud: la gestion des sauvegardes sur le cloud, avec la restauration à partir du cloud.
 
-[icon="../images/plugin/tip.png"]
 [TIP]
 Ne pas oublier de cliquer sur le bouton "Sauvegarder" pour enregistrer les modifications.
 
@@ -39,7 +37,6 @@ Lorsqu'une mise à jour est disponible une notification s'affichera dans l'inter
 image::../images/premier-admin_update1.png[Notification mise à jour]
 Il faudra se rendre dans ce menu pour effectuer la mise à jour en cliquant sur le bouton "Mettre à jour". +
 
-[icon="../images/plugin/tip.png"]
 [TIP]
 Les autres options sont réservées au mode expert, elles sont à modifier en connaissance de cause.
 
@@ -49,7 +46,6 @@ Le menu "Moteur de tâche" est lui, réservé au mode expert.
 
 Il résume le lancement des tâches automatiques que Jeedom est en train d'utiliser. Ce menu permet aussi d'activer, désactiver, stopper et relancer une tache. 
 
-[icon="../images/plugin/important.png"]
 [IMPORTANT]
 Cela peux nuire au bon fonctionnement de Jeedom
 
@@ -74,7 +70,6 @@ image::../images/premier-sysinfo.png[Informations système]
 
 Le menu "Personnalisation avancée", permet de forcer des styles ou du code Javascript dans toute l'interface Jeedom "Desktop" et "Mobile"
 
-[icon="../images/plugin/important.png"]
 [IMPORTANT]
 Attention tout ce que vous écrivez ici est global et inclus sur toutes les pages, la moindre erreur peut rendre votre jeedom non fonctionel 
 
