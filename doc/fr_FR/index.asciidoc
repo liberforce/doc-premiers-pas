@@ -1,3 +1,5 @@
+:icons: font
+
 = Premiers pas avec Jeedom
 
 == Introduction
