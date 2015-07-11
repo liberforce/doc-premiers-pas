@@ -1,46 +1,27 @@
 = Premiers pas avec Jeedom
 
-== Introduction
-include::intro.asciidoc[]
+Bienvenue dans cette présentation rapide de Jeedom. Ce guide vous permettra de découvrir rapidement les différentes fonctionnalités présentes dans Jeedom.
+
+[TIP]
+Ce guide n'a pas vocation à se substituer à la documentation complète disponible sur le site Jeedom https://jeedom.fr/doc[ici]
+
+== Inscription sur le market
+include::market.asciidoc[]
 
 == Trouver votre Jeedom sur le réseau
 include::findJeedom.asciidoc[]
 
-== Tour du propriétaire
-include::tour.asciidoc[]
+== Lier mon Jeedom à mon compte market
+include::linkmarket.asciidoc[]
 
-== Présentation du sous-menu administration
-include::administration.asciidoc[]
+== Changer le mot de passe de passe par défaut de Jeedom
+include::changeuser.asciidoc[]
 
-== Présentation du menu intéraction
-include::interact.asciidoc[]
+== Créer mon premier objet
+include::createobject.asciidoc[]
 
-== Présentation du menu affichage
-include::display.asciidoc[]
-
-== Présentation du menu objet
-include::object.asciidoc[]
-
-== Présentation du menu plugin et du market
-include::menu_plugin.asciidoc[] 
-
-== Présentation du menu scénario
-include::scenario.asciidoc[]
-
-== Présentation du menu historique
-include::history.asciidoc[]
-
-== Présentation du dashboard
-include::dashboard.asciidoc[]
-
-== Présentation des vues
-include::view.asciidoc[]
-
-== Présentation des designs
-include::design.asciidoc[]
-
-== Présentation des plugins
-include::plugin.asciidoc[]
+== Installer mon premier plugin
+include::installplugin.asciidoc[]
 
 == Support
 include::support.asciidoc[]

@@ -1,6 +1,0 @@
-Le menu interaction permet de configurer l'interaction de l'utilisateur avec Jeedom de façon textuelle.
-En effet, par l'intermédiaire de ce configurateur d'intéractions, on peut piloter Jeedom à partir de mots et de phrases.
-Il s'agit d'un puissant outil qui permet une multitude de possibilités de questions et de réponses.
-On peut ensuite utiliser ces phrases via des SMS, ou encore sous forme de commande vocale avec le projet S.A.R.A.H. par exemple.
-
-image::../images/premier-interact.png[Interaction]

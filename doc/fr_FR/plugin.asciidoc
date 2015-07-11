@@ -1,4 +1,0 @@
-Accessible directement sur le bandeau, vous trouverez la liste des plugins téléchargés et activés. +
-C'est via ce menu que l'on pourra configurer chaque plugin. Au départ ce menu est vide (Hors box), et vous devrez télécharger les plugins sur le Market avant de pouvoir vous en servir.
-
-image::../images/premier-plugin_menu.png[Menu plugin]

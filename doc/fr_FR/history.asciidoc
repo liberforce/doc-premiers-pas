@@ -1,5 +1,0 @@
-Le menu "Historique" accessible sur le bandeau permet de visualiser, sous forme de graphique et dans le temps, toutes les évolutions de sa domotique (température, consommation, etc).
-
-image::../images/premier-history.png[Historique]
-
-A gauche se trouve les historiques disponibles pour votre installation : il suffit de cliquer sur un ou plusieurs éléments pour afficher l'historique.

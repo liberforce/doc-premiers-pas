@@ -1,4 +1,0 @@
-Bienvenue dans cette présentation rapide de Jeedom. Ce guide vous permettra de découvrir rapidement les différentes fonctionnalités présentes dans Jeedom.
-
-[TIP]
-Ce guide n'a pas vocation à se substituer à la documentation complète disponible sur le site Jeedom https://jeedom.fr/doc[ici]
