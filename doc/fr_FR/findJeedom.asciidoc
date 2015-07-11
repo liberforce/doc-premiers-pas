@@ -11,7 +11,7 @@ Cliquez simplement link:https://find.dns.jeedom.com[ici]
 
 === Jeedom finder
 
-==== Télécharger le logiciel de découverte Jeedom (Jeedom Finder)
+.Télécharger le logiciel de découverte Jeedom (Jeedom Finder)
 
 Télécharger l'application Jeedom Finder selon votre système d'exploitation : 
 
@@ -21,7 +21,7 @@ Télécharger l'application Jeedom Finder selon votre système d'exploitation :
 
 Merci à link:https://github.com/K0n24d/JeedomFinder[k0n24d] pour l'application
 
-==== Lancer l'application 
+.Lancer l'application 
 
 En fonction de votre système d'exploitation, il faudra peut être décompresser l'archive puis lancer l'éxecutable "JeedomFinder".
 
@@ -52,8 +52,5 @@ image::../images/premier-jeedomfinder5.PNG[]
 === Premiere connexion
 
 Quelques soit la méthode utiliser vous arrivez ensuite sur la page de login. Par défaut le login et le mot de passe sont "admin".
-
-[IMPORTANT]
-Pour des raisons de sécurité évidente, il est recommandé de modifier par la suite le mot de passe par défaut de ce compte.
 
 image::../images/premier-jeedomfinder6.PNG[]
