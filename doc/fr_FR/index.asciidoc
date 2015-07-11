@@ -8,11 +8,17 @@ Ce guide n'a pas vocation à se substituer à la documentation complète disponi
 == Inscription sur le market
 include::market.asciidoc[]
 
+== Ajout de votre code service pack
+include::servicepack.asciidoc[]
+
 == Trouver votre Jeedom sur le réseau
 include::findJeedom.asciidoc[]
 
 == Lier mon Jeedom à mon compte market
 include::linkmarket.asciidoc[]
+
+== Obtenir mon URL d'accès directe
+include::dnsaccess.asciidoc[]
 
 == Changer le mot de passe de passe par défaut de Jeedom
 include::changeuser.asciidoc[]

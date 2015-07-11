@@ -1,0 +1,20 @@
+Si vous avez acheté une box Jeedom alors vous avez du recevoir un mail contenant un code pour votre service pack.
+
+[IMPORTANT]
+Il est important de le renseigner car ce code vous donne accès à certain plugins gratuitement, ainsi qu'à des services exclusifs.
+
+Une fois le code recuperé dans le mail il vous suffit d'allez link:market.jeedom.fr[ici] 
+
+Puis allez sur votre page de profil : 
+
+image::../images/premier-servicepack.PNG[]
+
+Puis cliquez sur l'onglet "Mes Jeedoms"
+
+image::../images/premier-servicepack2.PNG[]
+
+Renseignez votre numéro de service pack et validez : 
+
+image::../images/premier-servicepack3.PNG[]
+
+Voila votre service pack est enregistré, pour plus de details sur le market cliquez link:https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-market.html[ici]
