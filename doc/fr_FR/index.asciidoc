@@ -3,58 +3,44 @@
 == Introduction
 include::intro.asciidoc[]
 
-'''
 == Trouver votre Jeedom sur le réseau
 include::findJeedom.asciidoc[]
 
-'''
 == Tour du propriétaire
 include::tour.asciidoc[]
 
-'''
 == Présentation du sous-menu administration
 include::administration.asciidoc[]
 
-'''
 == Présentation du menu intéraction
 include::interact.asciidoc[]
 
-'''
 == Présentation du menu affichage
 include::display.asciidoc[]
 
-'''
 == Présentation du menu objet
 include::object.asciidoc[]
- 
-'''
+
 == Présentation du menu plugin et du market
 include::menu_plugin.asciidoc[] 
 
-'''
 == Présentation du menu scénario
 include::scenario.asciidoc[]
- 
-'''
+
 == Présentation du menu historique
 include::history.asciidoc[]
- 
-'''
+
 == Présentation du dashboard
 include::dashboard.asciidoc[]
- 
-'''
+
 == Présentation des vues
 include::view.asciidoc[]
 
-'''
 == Présentation des designs
 include::design.asciidoc[]
 
-'''
 == Présentation des plugins
 include::plugin.asciidoc[]
 
-'''
 == Support
 include::support.asciidoc[]
