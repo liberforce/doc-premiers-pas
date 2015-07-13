@@ -1,6 +1,6 @@
 = Premiers pas avec Jeedom
 
-Bienvenue dans cette présentation rapide de Jeedom. Ce guide vous permettra de découvrir rapidement les différentes fonctionnalités présentes dans Jeedom.
+Bienvenue dans cette documentation de premiers pas, celle-ci va vous aider à mettre en service votre Jeedom
 
 [TIP]
 Ce guide n'a pas vocation à se substituer à la documentation complète disponible sur le site Jeedom https://jeedom.fr/doc[ici]
