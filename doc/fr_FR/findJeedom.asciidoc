@@ -5,10 +5,6 @@ Il existe deux moyens de trouver votre Jeedom, soit par une application qui scan
 [IMPORTANT]
 L'addresse find.dns.jeedom.com ne marche que si vous etes sur le même réseaux que votre Jeedom et qu'une seule fois suite à l'installation, après un redemarrage cette url ne sera plus disponible mais si vous avez un service pack vous aurez une URL accessible de partout sans restriction
 
-=== find.dns.jeedom.com
-
-Cliquez simplement link:https://find.dns.jeedom.com[ici]
-
 === Jeedom finder
 
 .Télécharger le logiciel de découverte Jeedom (Jeedom Finder)
