@@ -11,9 +11,9 @@ L'addresse find.dns.jeedom.com ne marche que si vous etes sur le même réseaux 
 
 Télécharger l'application Jeedom Finder selon votre système d'exploitation : 
 
-- link:http://files.knauber.net/JeedomFinder/JeedomFinder-Win32.zip[Windows]
-- link:http://files.knauber.net/JeedomFinder/JeedomFinder.dmg[Mac OS]
-- link:http://files.knauber.net/JeedomFinder/JeedomFinder-Ubuntu-12.04-amd64.tar.gz[Linux]
+- link:http://www.jeedom.fr/download/JeedomFinder/JeedomFinder-Win32.zip[Windows]
+- link:http://www.jeedom.fr/download/JeedomFinder/JeedomFinder.dmg[Mac OS]
+- link:http://www.jeedom.fr/download/JeedomFinder/JeedomFinder-Ubuntu-12.04-amd64.tar.gz[Linux]
 
 Merci à link:https://github.com/K0n24d/JeedomFinder[k0n24d] pour l'application
 
