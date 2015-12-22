@@ -1,19 +1,12 @@
 Une fois Jeedom branché électriquement et connecté à votre réseau local, voici comment se connecter sur celui-ci.
 
-Il existe deux moyens de trouver votre Jeedom, soit par une application qui scan votre réseaux soit en allant sur find.dns.jeedom.com
-
-[IMPORTANT]
-L'addresse find.dns.jeedom.com ne marche que si vous etes sur le même réseaux que votre Jeedom et qu'une seule fois suite à l'installation, après un redemarrage cette url ne sera plus disponible mais si vous avez un service pack vous aurez une URL accessible de partout sans restriction
-
 === Jeedom finder
 
 .Télécharger le logiciel de découverte Jeedom (Jeedom Finder)
 
 Télécharger l'application Jeedom Finder selon votre système d'exploitation : 
 
-- link:http://www.jeedom.fr/download/JeedomFinder/JeedomFinder-Win32.zip[Windows]
-- link:http://www.jeedom.fr/download/JeedomFinder/JeedomFinder.dmg[Mac OS]
-- link:http://www.jeedom.fr/download/JeedomFinder/JeedomFinder-Ubuntu-12.04-amd64.tar.gz[Linux]
+Vous devez aller link:https://drive.google.com/open?id=0B9gdDNCtvjAIMmFYTEtISHRxU2s[ici], puis dans le dossier Jeedom Finder récuperer l'executable qui correspond à votre OS
 
 Merci à link:https://github.com/K0n24d/JeedomFinder[k0n24d] pour l'application
 
