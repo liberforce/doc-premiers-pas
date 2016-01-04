@@ -29,9 +29,7 @@ image::../images/premier-support4.PNG[]
 
 image::../images/premier-support5.PNG[]
 
-Suite à une ouverture de ticket, vous allez recevoir un mail (sur l'adresse mail configurée lors de l'inscription sur le market). Toute la suite des échanges se fera par mail.
-
-
+Toute la suite des échanges se fera par mail.
 
 Lors de l'ouverture de ticket, j'ai une erreur m'indiquant que j'ai atteint mon quota::
 En effet, en fonction de votre service pack vous êtes limité à un certain nombre de demande de support par mois : 
