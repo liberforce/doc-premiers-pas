@@ -21,4 +21,4 @@ image::../images/premier-servicepack3.PNG[]
 
 [icon="../images/plugin/tip.png"]
 [TIP]
-Si vous avez acheté une box officielle Jeedom, le numéro de service pack a du vous être envoyé par email. Si vous n'avez rien reçu, merci de contacter le magasin où vous avez acheté votre box.
+If you purchased a Jeedom box then you receiving an email containing a code for your service pack. If not please contact your receiler
