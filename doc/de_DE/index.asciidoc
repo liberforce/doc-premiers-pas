@@ -1,0 +1,33 @@
+= Erste Schritte mit Jeedom 
+
+Willkommen bei der Dokumentation "Ersten Schritte", es wird Ihnen helfen Ihr Jeedom zu benutzen
+
+[TIP]
+Dieses Handbuch soll nicht die vollständige Jeedom Dokumentation https://jeedom.fr/doc[hier] ersetzen 
+
+== Auf dem Markt Registrieren
+include::market.asciidoc[]
+
+== Hinzufügen von Service Pack-Code
+include::servicepack.asciidoc[]
+
+== Ihr Jeedom im Netz finden 
+include::findJeedom.asciidoc[]
+
+== Mein Jeedom mit meinem Markt Konto verbinden
+include::linkmarket.asciidoc[]
+
+== Holen Sie sich Ihre direkte Zugangs URL
+include::dnsaccess.asciidoc[]
+
+== Standard Jeedom Anmeldungskennwort ändern
+include::changeuser.asciidoc[]
+
+== Mein erstes Objekt erstellen
+include::createobject.asciidoc[]
+
+== Mein erstes Plugin Installieren
+include::installplugin.asciidoc[]
+
+== Unterstützung
+include::support.asciidoc[]

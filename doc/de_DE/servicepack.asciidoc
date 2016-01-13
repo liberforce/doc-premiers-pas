@@ -1,0 +1,24 @@
+Wenn Sie eine Jeedom Box gekauft haben, dann erhalten sie eine E-Mail die den Service Pack Code enthält.
+
+[WICHTIG]
+Es ist wichtig, den Code anzufragen, weil er gibt Ihnen Zugriff auf einige kostenlose Plugins, sowie exklusive Dienstleistungen.
+
+Sobald der Code mit der E-Mail zurückgeschickt wurde, gehen sie zum link:https://market.jeedom.fr[Jeedom market] hin und identifizieren sie sich. 
+
+Dann gehen Sie zu Ihrer Profilseite :
+
+image::../images/premier-servicepack.PNG[]
+
+Klicken Sie dann auf die Registerkarte "Mein Jeedom"
+
+image::../images/premier-servicepack2.PNG[]
+
+Geben Sie Ihre Service Pack-Nummer ein und bestätigen sie :
+
+image::../images/premier-servicepack3.PNG[]
+
+Ihr Service Pack wurde erfolgreich registriert, für mehr Einzelheiten über den Markt klicken sie link:https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-market.html[hier]
+
+[icon="../images/plugin/tip.png"]
+[TIP]
+Wenn Sie eine offizielle Jeedom Box gekauft haben,  dann wurde die Service Pack Nummer Ihnen per E-Mail versendet. Wenn sie sie nicht erhalten haben, kontaktieren sie den Laden, wo Sie die Box gekauft haben.

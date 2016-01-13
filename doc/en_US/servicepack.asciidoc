@@ -1,0 +1,24 @@
+If you purchased a Jeedom box then you receiving an email containing a code for your service pack.
+
+[IMPORTANT]
+It is important to inform because this code gives you access to some plugins free of charge, as well as exclusive services.
+
+Note the service pack code you received in the email, go to the link:https://market.jeedom.fr[market Jeedom] and identify you.
+
+Then go to your profile page :
+
+image::../images/premier-servicepack.PNG[]
+
+Then click on the tab "My Jeedoms"
+
+image::../images/premier-servicepack2.PNG[]
+
+Ask your service pack number and validate :
+
+image::../images/premier-servicepack3.PNG[]
+
+ your service pack is recorded, for more details  on the market click link:https://www.jeedom.fr/doc/documentation/core/en_US/doc-core-market.html[here]
+
+[icon="../images/plugin/tip.png"]
+[TIP]
+Si vous avez acheté une box officielle Jeedom, le numéro de service pack a du vous être envoyé par email. Si vous n'avez rien reçu, merci de contacter le magasin où vous avez acheté votre box.
