@@ -29,7 +29,7 @@ image::../images/premier-support4.PNG[]
 
 image::../images/premier-support5.PNG[]
 
-Toute la suite des échanges se fera par mail.
+The rest of exchanges will be by email.
 
 .When Ticket opening, I get an error telling me that I've reached my quota::
 Indeed, depending on your service pack you are limited to a number of support request per month : 
