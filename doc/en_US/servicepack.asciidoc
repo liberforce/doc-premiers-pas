@@ -4,7 +4,7 @@ If you purchased a Jeedom box then you receiving an email containing a code for 
 It is important to inform because this code gives you access to some plugins free of charge, as well as exclusive services.
 
 [IMPORTANT]
-Si vous achetez un service pack depuis le Market Jeedom vous n'avez rien à faire, celui-ci vous est automatiquement affecté.
+If you buy a service pack from the Jeedom Market you have nothing to do, it is automatically assigned to you.
 
 Note the service pack code you received in the email, go to the link:https://market.jeedom.fr[market Jeedom] and identify you.
 
