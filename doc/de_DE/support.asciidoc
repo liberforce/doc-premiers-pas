@@ -29,7 +29,7 @@ image::../images/premier-support4.PNG[]
 
 image::../images/premier-support5.PNG[]
 
-Toute la suite des échanges se fera par mail.
+Jedweder Schriftwechsel erfolgt per E-Mail
 
 Bei der Öffnung des Tickets wurde ein Fehler angezeigt, dass ich meine Quote erreicht habe::
 Je nach Ihrem Service Pack sind Sie nämlich auf eine gewisse Anzahl der Bitten um Unterstützung pro Monat beschränkt :  

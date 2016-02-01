@@ -4,7 +4,7 @@ Wenn Sie eine Jeedom Box gekauft haben, dann erhalten sie eine E-Mail die den Se
 Es ist wichtig, den Code anzufragen, weil er gibt Ihnen Zugriff auf einige kostenlose Plugins, sowie exklusive Dienstleistungen.
 
 [WICHTIG]
-Si vous achetez un service pack depuis le Market Jeedom vous n'avez rien à faire, celui-ci vous est automatiquement affecté.
+Wenn sie ein Service Pack vom Jeedom Markt kaufen haben sie nichts zu tun, es wird automatisch zugewiesen. 
 
 Sobald der Code mit der E-Mail zurückgeschickt wurde, gehen sie zum link:https://market.jeedom.fr[Jeedom market] hin und identifizieren sie sich. 
 
