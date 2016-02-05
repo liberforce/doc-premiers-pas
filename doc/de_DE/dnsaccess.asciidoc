@@ -1,11 +1,11 @@
 Si vous avez un service pack Jeedom vous met à disposition une URL d'accès direct à votre Jeedom sans que vous ayez à ouvrir les ports sur votre box ou autre.
 
-Pour la configurer il vous suffit d'aller dans Général -> Administration -> Configuration
+Um sie zu konfigurieren, genügt es auf  Einstellungen->Konfiguration zu gehen
 
 image::../images/premier-dns.PNG[]
 
-Puis d'aller sur la partie "Configuration réseaux"
+Dann gehen Sie zum Teil  "Netzwerkkonfiguration"  
 
 image::../images/premier-dns2.PNG[]
 
-Une fois ici il vous suffit d'activer "Utiliser les DNS Jeedom" puissur la ligne "Gestion" de faire "Rédemarrer" et votre URL apparaitra au niveau de statut http, vous pouvez bien sur la personaliser à partir de la page profil du market
+Sobald hier einfach aktivieren "Die Jeedom-DNS Verwenden" und klicken Sie dann auf 'Management', 'Restart' und Ihre URL wird auf der Ebene der http-Statuscode angezeigt, können Sie es anpassen, vom Markt  Profilseite
