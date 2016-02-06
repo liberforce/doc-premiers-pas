@@ -1,4 +1,4 @@
-Si vous avez un service pack Jeedom vous met à disposition une URL d'accès direct à votre Jeedom sans que vous ayez à ouvrir les ports sur votre box ou autre.
+Wenn Sie ein Jeedom Service Pack haben, stellt es Ihnen eine URL für direkten Zugang zu Ihrem Jeedom zur verfügung ohne auf Ihrem System Ports oder anderes zu öffnen.
 
 Um sie zu konfigurieren, genügt es auf  Einstellungen->Konfiguration zu gehen
 
