@@ -1,0 +1,45 @@
+Sobald Jeedom elektrisch angeschlossen und mit Ihrem lokalen Netzwerk verbunden ist, können Sie wie folgt eine Verbindung herstellen
+
+=== Jeedom finder
+
+.Laden Sie die Jeedom Einrichtungssoftware (Jeedom Finder)
+
+Laden sie die Jeedom Finder Anwendung je nach Betriebssystem : 
+
+Télécharger l'application Jeedom Finder selon votre système d'exploitation à partir link:https://drive.google.com/file/d/0B9gdDNCtvjAITEs0UjduRV9zSG8/view?usp=sharing[d'ici] puis dans le dossier Jeedom Finder. Attention à bien prendre celui correspondant à votre système d'exploitation
+
+Vielen Dank für die Anwendung an link:https://github.com/K0n24d/JeedomFinder[k0n24d]
+
+.Starten der Anwendung 
+
+Je nach Betriebssystem kann es sein, das "JeedomFinder" Archiv zu entpacken und die ausführbare Datei zu starten.
+
+Wenn eine Sicherheitswarnung beim starten der Anwendung erscheint, genügt es, sie für berechtigt zu erklären. Ein nachstehendes Beispiel für Windows 8.1 :  
+
+image::../images/premier-jeedomfinder1.PNG[]
+
+Klicken Sie auf "Weitere Informationen".
+
+image::../images/premier-jeedomfinder2.PNG[]
+
+Klicken Sie auf "Trotzdem ausführen" und die Anwendung wird gestartet.
+
+image::../images/premier-jeedomfinder3.PNG[]
+
+Dann starten Sie die Suche, indem Sie auf "Suche starten" klicken.
+
+[TIP]
+Die Suche kann lange dauern,  je nach Ihrem Netzwerk.
+
+image::../images/premier-jeedomfinder4.PNG[]
+
+Sobald die Suche abgeschlossen ist, sollten Sie Ihr Jeedom sehen, dann klicken Sie einfach auf den Link, um sich zu verbinden.
+Danach empfiehlt es sich, diesen Link in Ihrem Lieblings-Browser zu speichern.
+
+image::../images/premier-jeedomfinder5.PNG[]
+
+=== Erstes Einloggen
+
+Unabhängig von der gewählten Methode, dann kommen Sie auf die Anmeldeseite. Das Standard-Login und Passwort sind "admin".
+
+image::../images/premier-jeedomfinder6.PNG[]

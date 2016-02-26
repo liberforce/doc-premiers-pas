@@ -1,0 +1,41 @@
+We will see how you can find/seek help. If you have questions, it is possible in jeedom to find the answers in several places : 
+
+=== In the doc
+
+You fond the full documentation link:https://jeedom.fr/doc[here]
+
+image::../images/premier-support1.PNG[]
+
+It is divided into several categories: one for the "heart" of jeedom, part of the modules (Z-Wave, mySensors, RFXCOM) and a final section for the documentation of plugins
+
+=== The forum
+
+Available link:https://jeedom.fr/forum[here], the forum is very active and has hugely information. If you have a question, do not hesitate to ask, you will have an answer in less than an hour (on average)
+
+image::../images/premier-support3.PNG[]
+
+=== Support requests (or ticket)
+
+[IMPORTANT]
+Be careful  any support request requires having an account on the market.
+
+If you have not found a solution to your problem, you may as a last resort to a support request to Jeedom team this application requires a ticket. It is possible to open one of several ways: 
+
+- Directly from Jeedom (recommended method): wherever you are in Jeedom, there is an upper right exclamation point which allows a support request
+
+image::../images/premier-support4.PNG[]
+
+- If for whatever reason you do not have access to your Jeedom, you can always open a ticket from the market: either with the exclamation mark at the top right or by going to your profile (click the "Open a support request" button)
+
+image::../images/premier-support5.PNG[]
+
+The rest of exchanges will be by email.
+
+.When Ticket opening, I get an error telling me that I've reached my quota::
+Indeed, depending on your service pack you are limited to a number of support request per month : 
+
+- Community (free): 2 tickets / month
+- Power : 10 tickets/month
+- Pro :  100 tickets/month
+
+You can find the details of the service pack link:https://jeedom.fr/doc/documentation/core/en_US/doc-core-service_pack.html[here]

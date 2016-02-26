@@ -1,0 +1,45 @@
+Once Jeedom electrically connected and connected to your local network, here's how to connect on it.
+
+=== Jeedom finder
+
+.Download Jeedom discovery software (Jeedom Finder)
+
+Download Jeedom Finder application depending on your operating system : 
+
+Télécharger l'application Jeedom Finder selon votre système d'exploitation à partir link:https://drive.google.com/file/d/0B9gdDNCtvjAITEs0UjduRV9zSG8/view?usp=sharing[d'ici] puis dans le dossier Jeedom Finder. Attention à bien prendre celui correspondant à votre système d'exploitation
+
+Thanks to link:https://github.com/K0n24d/JeedomFinder[k0n24d] for the application
+
+.Launch application 
+
+Depending on your operating system, it may be decompress the archive and run the executable "JeedomFinder".
+
+If security alerts appear when launching the application, you only have to validate them. An example below under Windows 8.1: 
+
+image::../images/premier-jeedomfinder1.PNG[]
+
+Click on "More Information".
+
+image::../images/premier-jeedomfinder2.PNG[]
+
+Click "Run Anyway" and the application launches.
+
+image::../images/premier-jeedomfinder3.PNG[]
+
+Then proceed to launch the search by clicking on "Start search".
+
+[TIP]
+Research may be long depending on your network.
+
+image::../images/premier-jeedomfinder4.PNG[]
+
+Once the search is complete, you should see your Jeedom, then just click on the link to connect.
+Thereafter, it is recommended to save this link in your favorite browser.
+
+image::../images/premier-jeedomfinder5.PNG[]
+
+=== First Login
+
+Some use either method you will reach the login page. The default login and password are "admin".
+
+image::../images/premier-jeedomfinder6.PNG[]
