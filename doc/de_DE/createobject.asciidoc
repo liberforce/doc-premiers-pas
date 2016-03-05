@@ -5,18 +5,18 @@ Sie können Beziehungen zwischen Objekten definieren, zB : das Objekt Wohnzimmer
 
 Ein Objekt zu erstellen ist einfach, gehen sie dazu auf Allgemein -> Objekte
 
-image::../images/premier-objet.PNG[]
+image::../images/premier-objet.png[]
 
 Klicken Sie dann auf die Schaltfläche Hinzufügen : 
 
-image::../images/premier-objet2.PNG[]
+image::../images/premier-objet2.png[]
 
 Jeedom wird Sie nach den Namen für das Objekt fragen : 
 
-image::../images/premier-objet3.PNG[]
+image::../images/premier-objet3.png[]
 
 Bestätigen Sie hier Ihr erstes erstelltes Objekt  (einfach nicht wahr?) : 
 
-image::../images/premier-objet4.PNG[]
+image::../images/premier-objet4.png[]
 
 Für mehr Information über diesen Teil klicken sie link:https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-object.html[hier]

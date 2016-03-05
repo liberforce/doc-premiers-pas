@@ -16,30 +16,30 @@ Je nach Betriebssystem kann es sein, das "JeedomFinder" Archiv zu entpacken und 
 
 Wenn eine Sicherheitswarnung beim starten der Anwendung erscheint, genügt es, sie für berechtigt zu erklären. Ein nachstehendes Beispiel für Windows 8.1 :  
 
-image::../images/premier-jeedomfinder1.PNG[]
+image::../images/premier-jeedomfinder1.png[]
 
 Klicken Sie auf "Weitere Informationen".
 
-image::../images/premier-jeedomfinder2.PNG[]
+image::../images/premier-jeedomfinder2.png[]
 
 Klicken Sie auf "Trotzdem ausführen" und die Anwendung wird gestartet.
 
-image::../images/premier-jeedomfinder3.PNG[]
+image::../images/premier-jeedomfinder3.png[]
 
 Dann starten Sie die Suche, indem Sie auf "Suche starten" klicken.
 
 [TIP]
 Die Suche kann lange dauern,  je nach Ihrem Netzwerk.
 
-image::../images/premier-jeedomfinder4.PNG[]
+image::../images/premier-jeedomfinder4.png[]
 
 Sobald die Suche abgeschlossen ist, sollten Sie Ihr Jeedom sehen, dann klicken Sie einfach auf den Link, um sich zu verbinden.
 Danach empfiehlt es sich, diesen Link in Ihrem Lieblings-Browser zu speichern.
 
-image::../images/premier-jeedomfinder5.PNG[]
+image::../images/premier-jeedomfinder5.png[]
 
 === Erstes Einloggen
 
 Unabhängig von der gewählten Methode, dann kommen Sie auf die Anmeldeseite. Das Standard-Login und Passwort sind "admin".
 
-image::../images/premier-jeedomfinder6.PNG[]
+image::../images/premier-jeedomfinder6.png[]

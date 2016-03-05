@@ -1,18 +1,18 @@
 We will see how to link your Jeedom and your market account, once connected to your jeedom you must go to General -> Administration -> Configuration
 
-image::../images/premier-linkmarket.PNG[]
+image::../images/premier-linkmarket.png[]
 
 Then click on "Market and Update" 
 
-image::../images/premier-linkmarket2.PNG[]
+image::../images/premier-linkmarket2.png[]
 
 And fill the field "username" and password according to your identifiers Market (and only of the market and not Jeedom)
 
-image::../images/premier-linkmarket3.PNG[]
+image::../images/premier-linkmarket3.png[]
 
 Then click "Test"
 
-image::../images/premier-linkmarket4.PNG[]
+image::../images/premier-linkmarket4.png[]
 
 A message will tell you that everything is OK
 

@@ -10,15 +10,15 @@ Sobald der Code mit der E-Mail zurückgeschickt wurde, gehen sie zum link:https:
 
 Dann gehen Sie zu Ihrer Profilseite :
 
-image::../images/premier-servicepack.PNG[]
+image::../images/premier-servicepack.png[]
 
 Klicken Sie dann auf die Registerkarte "Mein Jeedom"
 
-image::../images/premier-servicepack2.PNG[]
+image::../images/premier-servicepack2.png[]
 
 Geben Sie Ihre Service Pack-Nummer ein und bestätigen sie :
 
-image::../images/premier-servicepack3.PNG[]
+image::../images/premier-servicepack3.png[]
 
 Ihr Service Pack wurde erfolgreich registriert, für mehr Einzelheiten über den Markt klicken sie link:https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-market.html[hier]
 

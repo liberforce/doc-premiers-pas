@@ -16,30 +16,30 @@ En fonction de votre système d'exploitation, il faudra peut être décompresser
 
 Si des alertes de sécurité apparaissent au lancement de l'application, il suffit de les valider. Un exemple ci-dessous sous windows 8.1 : 
 
-image::../images/premier-jeedomfinder1.PNG[]
+image::../images/premier-jeedomfinder1.png[]
 
 Cliquez sur "Informations complémentaires".
 
-image::../images/premier-jeedomfinder2.PNG[]
+image::../images/premier-jeedomfinder2.png[]
 
 Cliquez sur "Exécuter quand même" et l'application se lance.
 
-image::../images/premier-jeedomfinder3.PNG[]
+image::../images/premier-jeedomfinder3.png[]
 
 Procéder ensuite au lancement de la recherche en cliquant sur "Lancer la recherche".
 
 [TIP]
 La recherche peut-être longue en fonction de votre réseau.
 
-image::../images/premier-jeedomfinder4.PNG[]
+image::../images/premier-jeedomfinder4.png[]
 
 Une fois la recherche terminée, vous devriez voir apparaitre votre Jeedom, il suffit ensuite de cliquer sur le lien pour se connecter.
 Par la suite, il est recommandé d'enregistrer ce lien en favori dans votre navigateur.
 
-image::../images/premier-jeedomfinder5.PNG[]
+image::../images/premier-jeedomfinder5.png[]
 
 === Premiere connexion
 
 Quelques soit la méthode utiliser vous arrivez ensuite sur la page de login. Par défaut le login et le mot de passe sont "admin".
 
-image::../images/premier-jeedomfinder6.PNG[]
+image::../images/premier-jeedomfinder6.png[]

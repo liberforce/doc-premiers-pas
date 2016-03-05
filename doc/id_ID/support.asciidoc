@@ -4,7 +4,7 @@ Nous allons voir ici comment vous pouvez trouver/demander de l'aide. En cas de q
 
 Vous trouverez une documentation complète link:https://jeedom.fr/doc[ici] :
 
-image::../images/premier-support1.PNG[]
+image::../images/premier-support1.png[]
 
 Celle-ci se décompose en plusieurs categories : une partie pour le "coeur" de jeedom, une partie sur les modules (zwave, mySensors, rfxcom) et une derniere partie pour la documentation des plugins
 
@@ -12,7 +12,7 @@ Celle-ci se décompose en plusieurs categories : une partie pour le "coeur" de j
 
 Disponible link:https://jeedom.fr/forum[ici], le forum est très actif et contient énormement d'informations. Si vous avez une question, n'hésitez pas à la poser, vous aurez une réponse en moins d'une heure (en moyenne).
 
-image::../images/premier-support3.PNG[]
+image::../images/premier-support3.png[]
 
 === Les demandes de support (ou ticket)
 
@@ -23,11 +23,11 @@ Si vous n'avez pas trouvé de solution à votre problème, vous pouvez en dernie
 
 - Directement à partir de Jeedom (méthode conseillée) : où que vous soyez dans Jeedom, il y a un point d'exclamation en haut à droite qui permet de faire une demande de support
 
-image::../images/premier-support4.PNG[]
+image::../images/premier-support4.png[]
 
 - Si pour une raison ou une autre vous n'avez pas accès à votre Jeedom, vous pouvez toujours ouvrir un ticket à partir du market : soit avec le point d'exclamation en haut à droite, soit en allant sur votre profil (cliquez ensuite sur le bouton "Ouvrir une demande de support")
 
-image::../images/premier-support5.PNG[]
+image::../images/premier-support5.png[]
 
 Toute la suite des échanges se fera par mail.
 

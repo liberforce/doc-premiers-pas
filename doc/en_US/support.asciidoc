@@ -4,7 +4,7 @@ We will see how you can find/seek help. If you have questions, it is possible in
 
 You fond the full documentation link:https://jeedom.fr/doc[here]
 
-image::../images/premier-support1.PNG[]
+image::../images/premier-support1.png[]
 
 It is divided into several categories: one for the "heart" of jeedom, part of the modules (Z-Wave, mySensors, RFXCOM) and a final section for the documentation of plugins
 
@@ -12,7 +12,7 @@ It is divided into several categories: one for the "heart" of jeedom, part of th
 
 Available link:https://jeedom.fr/forum[here], the forum is very active and has hugely information. If you have a question, do not hesitate to ask, you will have an answer in less than an hour (on average)
 
-image::../images/premier-support3.PNG[]
+image::../images/premier-support3.png[]
 
 === Support requests (or ticket)
 
@@ -23,11 +23,11 @@ If you have not found a solution to your problem, you may as a last resort to a 
 
 - Directly from Jeedom (recommended method): wherever you are in Jeedom, there is an upper right exclamation point which allows a support request
 
-image::../images/premier-support4.PNG[]
+image::../images/premier-support4.png[]
 
 - If for whatever reason you do not have access to your Jeedom, you can always open a ticket from the market: either with the exclamation mark at the top right or by going to your profile (click the "Open a support request" button)
 
-image::../images/premier-support5.PNG[]
+image::../images/premier-support5.png[]
 
 The rest of exchanges will be by email.
 

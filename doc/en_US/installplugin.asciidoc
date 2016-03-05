@@ -1,6 +1,6 @@
 A plugin allows you to add functionality to Jeedom, there are hundreds, some may be paying. To access the plugins page go to General -> Plugins
 
-image::../images/premier-plugin.PNG[]
+image::../images/premier-plugin.png[]
 
 Then simply click on Market : 
 

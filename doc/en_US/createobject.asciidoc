@@ -5,18 +5,18 @@ You can define relationships between objects, eg the living room up to the groun
 
 To create an object is simple, go to General -> Object
 
-image::../images/premier-objet.PNG[]
+image::../images/premier-objet.png[]
 
 Then click the Add button : 
 
-image::../images/premier-objet2.PNG[]
+image::../images/premier-objet2.png[]
 
 Jeedom will ask you the name of it : 
 
-image::../images/premier-objet3.PNG[]
+image::../images/premier-objet3.png[]
 
 Validate, here your first object is created (easy right?): 
 
-image::../images/premier-objet4.PNG[]
+image::../images/premier-objet4.png[]
 
 For more information click on this part link:https://www.jeedom.fr/doc/documentation/core/en_US/doc-core-object.html[here]

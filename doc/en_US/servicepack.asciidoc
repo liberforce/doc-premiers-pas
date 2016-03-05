@@ -10,15 +10,15 @@ Note the service pack code you received in the email, go to the link:https://mar
 
 Then go to your profile page :
 
-image::../images/premier-servicepack.PNG[]
+image::../images/premier-servicepack.png[]
 
 Then click on the tab "My Jeedoms"
 
-image::../images/premier-servicepack2.PNG[]
+image::../images/premier-servicepack2.png[]
 
 Ask your service pack number and validate :
 
-image::../images/premier-servicepack3.PNG[]
+image::../images/premier-servicepack3.png[]
 
  your service pack is recorded, for more details  on the market click link:https://www.jeedom.fr/doc/documentation/core/en_US/doc-core-market.html[here]
 

@@ -2,11 +2,11 @@ Si vous avez un service pack Jeedom vous met à disposition une URL d'accès dir
 
 Pour la configurer il vous suffit d'aller dans Général -> Administration -> Configuration
 
-image::../images/premier-dns.PNG[]
+image::../images/premier-dns.png[]
 
 Puis d'aller sur la partie "Configuration réseaux"
 
-image::../images/premier-dns2.PNG[]
+image::../images/premier-dns2.png[]
 
 Une fois ici il vous suffit d'activer "Utiliser les DNS Jeedom" puissur la ligne "Gestion" de faire "Rédemarrer" et votre URL apparaitra au niveau de statut http, vous pouvez bien sur la personaliser à partir de la page profil du market
 

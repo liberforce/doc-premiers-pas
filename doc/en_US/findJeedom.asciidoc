@@ -16,30 +16,30 @@ Depending on your operating system, it may be decompress the archive and run the
 
 If security alerts appear when launching the application, you only have to validate them. An example below under Windows 8.1: 
 
-image::../images/premier-jeedomfinder1.PNG[]
+image::../images/premier-jeedomfinder1.png[]
 
 Click on "More Information".
 
-image::../images/premier-jeedomfinder2.PNG[]
+image::../images/premier-jeedomfinder2.png[]
 
 Click "Run Anyway" and the application launches.
 
-image::../images/premier-jeedomfinder3.PNG[]
+image::../images/premier-jeedomfinder3.png[]
 
 Then proceed to launch the search by clicking on "Start search".
 
 [TIP]
 Research may be long depending on your network.
 
-image::../images/premier-jeedomfinder4.PNG[]
+image::../images/premier-jeedomfinder4.png[]
 
 Once the search is complete, you should see your Jeedom, then just click on the link to connect.
 Thereafter, it is recommended to save this link in your favorite browser.
 
-image::../images/premier-jeedomfinder5.PNG[]
+image::../images/premier-jeedomfinder5.png[]
 
 === First Login
 
 Some use either method you will reach the login page. The default login and password are "admin".
 
-image::../images/premier-jeedomfinder6.PNG[]
+image::../images/premier-jeedomfinder6.png[]

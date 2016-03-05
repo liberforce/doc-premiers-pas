@@ -2,10 +2,10 @@ If you have a service pack Jeedom puts at your disposal a direct access URL to y
 
 To configure simply go to General -> Administration -> Configuration
 
-image::../images/premier-dns.PNG[]
+image::../images/premier-dns.png[]
 
 Then go to the "Configuring Networks"
 
-image::../images/premier-dns2.PNG[]
+image::../images/premier-dns2.png[]
 
 Once here you just have to activate "Use Jeedom DNS" then on the "management" to "Restart" and your URL will appear at http status, you can customize the course from the profile page market
