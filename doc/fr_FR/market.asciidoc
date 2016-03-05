@@ -2,11 +2,11 @@ La premiere chose à faire et de se creer un compter sur le market pour pouvoir 
 
 image::../images/premier-market.png[]
 
-Cliquez sur le bouton enregistrer en haut à droite :
+Cliquez sur le bouton enregistrer en haut à droite :
 
 image::../images/premier-market2.png[]
 
-Remplissez les differents champs et valider. Vous tomberez ensuite sur cette page :
+Remplissez les differents champs et valider. Vous tomberez ensuite sur cette page :
 
 image::../images/premier-market3.png[]
 
