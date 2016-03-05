@@ -7,15 +7,15 @@ Pour creer un objet rien de plus simple, allez sur Général -> Objet
 
 image::../images/premier-objet.png[]
 
-Puis cliquez sur le bouton ajouter : 
+Puis cliquez sur le bouton ajouter :
 
 image::../images/premier-objet2.png[]
 
-Jeedom va vous demander le nom de celui-ci : 
+Jeedom va vous demander le nom de celui-ci :
 
 image::../images/premier-objet3.png[]
 
-Validez, voila votre premier objet est créer (facile non ?) : 
+Validez, voila votre premier objet est créer (facile non ?) :
 
 image::../images/premier-objet4.png[]
 

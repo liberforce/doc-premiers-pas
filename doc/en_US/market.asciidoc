@@ -6,7 +6,7 @@ Click the button Register in the top right :
 
 image::../images/premier-market2.png[]
 
-Fill the different fields and validate. Then you will come across this page : 
+Fill the different fields and validate. Then you will come across this page :
 
 image::../images/premier-market3.png[]
 

@@ -7,15 +7,15 @@ Ein Objekt zu erstellen ist einfach, gehen sie dazu auf Allgemein -> Objekte
 
 image::../images/premier-objet.png[]
 
-Klicken Sie dann auf die Schaltfläche Hinzufügen : 
+Klicken Sie dann auf die Schaltfläche Hinzufügen :
 
 image::../images/premier-objet2.png[]
 
-Jeedom wird Sie nach den Namen für das Objekt fragen : 
+Jeedom wird Sie nach den Namen für das Objekt fragen :
 
 image::../images/premier-objet3.png[]
 
-Bestätigen Sie hier Ihr erstes erstelltes Objekt  (einfach nicht wahr?) : 
+Bestätigen Sie hier Ihr erstes erstelltes Objekt (einfach nicht wahr?) :
 
 image::../images/premier-objet4.png[]
 

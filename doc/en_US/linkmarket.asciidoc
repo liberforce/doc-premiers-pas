@@ -2,7 +2,7 @@ We will see how to link your Jeedom and your market account, once connected to y
 
 image::../images/premier-linkmarket.png[]
 
-Then click on "Market and Update" 
+Then click on "Market and Update"
 
 image::../images/premier-linkmarket2.png[]
 
@@ -16,4 +16,4 @@ image::../images/premier-linkmarket4.png[]
 
 A message will tell you that everything is OK
 
-For details on the configuration page, click  link:https://www.jeedom.fr/doc/documentation/core/en_US/doc-core-administration.html[here]
+For details on the configuration page, click link:https://www.jeedom.fr/doc/documentation/core/en_US/doc-core-administration.html[here]

@@ -6,7 +6,7 @@ Klicken Sie oben rechts auf Registrieren :
 
 image::../images/premier-market2.png[]
 
-Füllen Sie die verschiedenen Felder aus und bestätigen sie. Sie werden danach auf dieser Seite gelangen : 
+Füllen Sie die verschiedenen Felder aus und bestätigen sie. Sie werden danach auf dieser Seite gelangen :
 
 image::../images/premier-market3.png[]
 

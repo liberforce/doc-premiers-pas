@@ -2,7 +2,7 @@ A plugin allows you to add functionality to Jeedom, there are hundreds, some may
 
 image::../images/premier-plugin.png[]
 
-Then simply click on Market : 
+Then simply click on Market :
 
 image::../images/premier-plugin2.png[]
 
@@ -13,7 +13,7 @@ Caution official and some other not, in case of trouble with an unofficial plugi
 
 image::../images/premier-plugin3.png[]
 
-Clicking on a plugin you get his card : 
+Clicking on a plugin you get his card :
 
 image::../images/premier-plugin4.png[]
 

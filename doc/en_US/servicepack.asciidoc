@@ -20,7 +20,7 @@ Ask your service pack number and validate :
 
 image::../images/premier-servicepack3.png[]
 
- your service pack is recorded, for more details  on the market click link:https://www.jeedom.fr/doc/documentation/core/en_US/doc-core-market.html[here]
+ your service pack is recorded, for more details on the market click link:https://www.jeedom.fr/doc/documentation/core/en_US/doc-core-market.html[here]
 
 [icon="../images/plugin/tip.png"]
 [TIP]

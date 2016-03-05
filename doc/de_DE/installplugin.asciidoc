@@ -1,8 +1,8 @@
-Ein Plugin fügt Jeedom Funktionalität hinzu, es gibt Hunderte, manche sind zu bezahlen. Für den Zugriff auf die Plugins Seite gehen sie auf  Allgemein -> Plugins
+Ein Plugin fügt Jeedom Funktionalität hinzu, es gibt Hunderte, manche sind zu bezahlen. Für den Zugriff auf die Plugins Seite gehen sie auf Allgemein -> Plugins
 
 image::../images/premier-plugin.png[]
 
-Dann klicken Sie einfach auf Markt : 
+Dann klicken Sie einfach auf Markt :
 
 image::../images/premier-plugin2.png[]
 
@@ -13,10 +13,10 @@ Achtung einige Plugins sind offiziell und andere nicht bei Problemen mit einem n
 
 image::../images/premier-plugin3.png[]
 
-Auf ein Plugin klickend, erhalten Sie eine Karteikarte : 
+Auf ein Plugin klickend, erhalten Sie eine Karteikarte :
 
 image::../images/premier-plugin4.png[]
 
-Hier finden Sie die Tasten, um das Plugin zu installieren (die stabile Version wird dringend empfohlen) und eine kurze Beschreibung und einen Link speziell zur Plugin-Dokumentation. Es ist wichtig, diese Dokumentation zu konsultieren, weil viel probleme, der Sie begegnen könnten, in diesem erklärt werden 
+Hier finden Sie die Tasten, um das Plugin zu installieren (die stabile Version wird dringend empfohlen) und eine kurze Beschreibung und einen Link speziell zur Plugin-Dokumentation. Es ist wichtig, diese Dokumentation zu konsultieren, weil viel probleme, der Sie begegnen könnten, in diesem erklärt werden
 
 Für weitere Informationen klicken Sie auf dieser Seite link:https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-plugin.html[hier]

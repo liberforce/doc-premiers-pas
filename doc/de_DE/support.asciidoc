@@ -1,4 +1,4 @@
-Wir werden sehen, wie Sie Hilfe finden/suchen können. Wenn Sie Fragen haben, ist es möglich, in Jeedom die Antworten an mehreren Stellen zu finden : 
+Wir werden sehen, wie Sie Hilfe finden/suchen können. Wenn Sie Fragen haben, ist es möglich, in Jeedom die Antworten an mehreren Stellen zu finden :
 
 === In der doc
 
@@ -17,11 +17,11 @@ image::../images/premier-support3.png[]
 === Supportanfragen (oder Ticket)
 
 [IMPORTANT]
-Achtung, jede Bitte um Unterstützung, erfordert unbedingt auf dem Markt ein Konto zu haben. 
+Achtung, jede Bitte um Unterstützung, erfordert unbedingt auf dem Markt ein Konto zu haben.
 
-Wenn Sie keine Lösung für Ihr Problem gefunden haben, können Sie als letzten Ausweg, eine Unterstützungsbitte der Jeedom Mannschaft machen: Diese Bitte erfordert ein Ticket. Es ist möglich, ein Ticket auf mehrerer Weisen zu öffnen:  
+Wenn Sie keine Lösung für Ihr Problem gefunden haben, können Sie als letzten Ausweg, eine Unterstützungsbitte der Jeedom Mannschaft machen: Diese Bitte erfordert ein Ticket. Es ist möglich, ein Ticket auf mehrerer Weisen zu öffnen:
 
-- Direkt in Jeedom (empfohlene Methode): Wo Sie auch immer in Jeedom  sind, es gibt ein Ausrufezeichen oben rechts, das ermöglicht, eine Unterstützungsbitte zu machen.
+- Direkt in Jeedom (empfohlene Methode): Wo Sie auch immer in Jeedom sind, es gibt ein Ausrufezeichen oben rechts, das ermöglicht, eine Unterstützungsbitte zu machen.
 
 image::../images/premier-support4.png[]
 
@@ -32,7 +32,7 @@ image::../images/premier-support5.png[]
 Jedweder Schriftwechsel erfolgt per E-Mail
 
 Bei der Öffnung des Tickets wurde ein Fehler angezeigt, dass ich meine Quote erreicht habe::
-Je nach Ihrem Service Pack sind Sie nämlich auf eine gewisse Anzahl der Bitten um Unterstützung pro Monat beschränkt :  
+Je nach Ihrem Service Pack sind Sie nämlich auf eine gewisse Anzahl der Bitten um Unterstützung pro Monat beschränkt :
 
 - Gemeinschaft (kostenfrei): 2 Tickets/Monat
 - Power : 10 Tickets/Monat

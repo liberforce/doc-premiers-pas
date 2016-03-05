@@ -4,17 +4,17 @@ Once Jeedom electrically connected and connected to your local network, here's h
 
 .Download Jeedom discovery software (Jeedom Finder)
 
-Download Jeedom Finder application depending on your operating system : 
+Download Jeedom Finder application depending on your operating system :
 
 Télécharger l'application Jeedom Finder selon votre système d'exploitation à partir link:https://app.box.com/s/ijyxkntjjip9x4oue2xqdi53r4sh8ent[d'ici] puis dans le dossier Jeedom Finder. Attention à bien prendre celui correspondant à votre système d'exploitation
 
 Thanks to link:https://github.com/K0n24d/JeedomFinder[k0n24d] for the application
 
-.Launch application 
+.Launch application
 
 Depending on your operating system, it may be decompress the archive and run the executable "JeedomFinder".
 
-If security alerts appear when launching the application, you only have to validate them. An example below under Windows 8.1: 
+If security alerts appear when launching the application, you only have to validate them. An example below under Windows 8.1:
 
 image::../images/premier-jeedomfinder1.png[]
 

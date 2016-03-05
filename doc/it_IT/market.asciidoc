@@ -6,7 +6,7 @@ Cliquez sur le bouton enregistrer en haut à droite :
 
 image::../images/premier-market2.png[]
 
-Remplissez les differents champs et valider. Vous tomberez ensuite sur cette page : 
+Remplissez les differents champs et valider. Vous tomberez ensuite sur cette page :
 
 image::../images/premier-market3.png[]
 
