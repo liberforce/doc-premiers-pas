@@ -3,7 +3,7 @@ You will create your first object here, but first you have to know what an objec
 [TIP]
 You can define relationships between objects, eg the living room up to the ground floor object that belongs to the same object house
 
-To create an object is simple, go to General -> Object
+To create an object is simple, go to General → Object
 
 image::../images/premier-objet.png[]
 

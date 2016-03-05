@@ -1,6 +1,6 @@
 Si vous avez un service pack Jeedom vous met à disposition une URL d'accès direct à votre Jeedom sans que vous ayez à ouvrir les ports sur votre box ou autre.
 
-Pour la configurer il vous suffit d'aller dans Général -> Administration -> Configuration
+Pour la configurer il vous suffit d'aller dans Général → Administration → Configuration
 
 image::../images/premier-dns.png[]
 

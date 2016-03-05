@@ -1,4 +1,4 @@
-Ensuite une des étapes importantes est de changer le mot de passe par defaut de votre compte Jeedom, pour cela cliquez sur Général -> Administration -> Utilisateurs :
+Ensuite une des étapes importantes est de changer le mot de passe par defaut de votre compte Jeedom, pour cela cliquez sur Général → Administration → Utilisateurs :
 
 image::../images/premier-changeuser.png[]
 

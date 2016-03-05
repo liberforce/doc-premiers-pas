@@ -1,4 +1,4 @@
-Un plugin permet d'ajouter des fonctionalités à Jeedom, il en existe des centaines, certain peuvent etre payant. Pour acceder à la page des plugins aller sur Général -> Plugins
+Un plugin permet d'ajouter des fonctionalités à Jeedom, il en existe des centaines, certain peuvent etre payant. Pour acceder à la page des plugins aller sur Général → Plugins
 
 image::../images/premier-plugin.png[]
 

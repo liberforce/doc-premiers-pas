@@ -1,4 +1,4 @@
-We will see how to link your Jeedom and your market account, once connected to your jeedom you must go to General -> Administration -> Configuration
+We will see how to link your Jeedom and your market account, once connected to your jeedom you must go to General → Administration → Configuration
 
 image::../images/premier-linkmarket.png[]
 

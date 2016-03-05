@@ -1,4 +1,4 @@
-Ein Plugin fügt Jeedom Funktionalität hinzu, es gibt Hunderte, manche sind zu bezahlen. Für den Zugriff auf die Plugins Seite gehen sie auf Allgemein -> Plugins
+Ein Plugin fügt Jeedom Funktionalität hinzu, es gibt Hunderte, manche sind zu bezahlen. Für den Zugriff auf die Plugins Seite gehen sie auf Allgemein → Plugins
 
 image::../images/premier-plugin.png[]
 

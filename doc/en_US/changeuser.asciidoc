@@ -1,4 +1,4 @@
-Then one of the important steps is to change the default password of your Jeedom account for that click General -> Administration -> Users :
+Then one of the important steps is to change the default password of your Jeedom account for that click General → Administration → Users :
 
 image::../images/premier-changeuser.png[]
 

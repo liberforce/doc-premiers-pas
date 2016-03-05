@@ -1,4 +1,4 @@
-Wir werden hier sehen wie Ihr Jeedom mit Ihrem Markt Konto verbunden wird, einmal in ihre Jeedom eingeloggt müssen sie auf Allgemein -> Verwaltung -> Konfiguration gehen
+Wir werden hier sehen wie Ihr Jeedom mit Ihrem Markt Konto verbunden wird, einmal in ihre Jeedom eingeloggt müssen sie auf Allgemein → Verwaltung → Konfiguration gehen
 
 image::../images/premier-linkmarket.png[]
 

@@ -3,7 +3,7 @@ Vous allez ici créer votre premier objet, mais d'abord il faut savoir ce qu'est
 [TIP]
 Il est possible de définir des relation entre les objets, exemple : le salon appartient à l'objet rez-de-chaussé qui appartient lui meme à l'objet maison
 
-Pour creer un objet rien de plus simple, allez sur Général -> Objet
+Pour creer un objet rien de plus simple, allez sur Général → Objet
 
 image::../images/premier-objet.png[]
 

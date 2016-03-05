@@ -1,4 +1,4 @@
-Nous allons voir ici comment lier votre Jeedom à votre compte market, une fois connecté à votre jeedom vous devez aller sur Général -> Administration -> Configuration
+Nous allons voir ici comment lier votre Jeedom à votre compte market, une fois connecté à votre jeedom vous devez aller sur Général → Administration → Configuration
 
 image::../images/premier-linkmarket.png[]
 
