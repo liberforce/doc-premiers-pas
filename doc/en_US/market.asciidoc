@@ -2,11 +2,11 @@ The first thing to do is to create a count on the market to be able to save your
 
 image::../images/premier-market.png[]
 
-Click the button Register in the top right :
+Click the button Register in the top right:
 
 image::../images/premier-market2.png[]
 
-Fill the different fields and validate. Then you will come across this page :
+Fill the different fields and validate. Then you will come across this page:
 
 image::../images/premier-market3.png[]
 

@@ -7,11 +7,11 @@ To create an object is simple, go to General → Object
 
 image::../images/premier-objet.png[]
 
-Then click the Add button :
+Then click the Add button:
 
 image::../images/premier-objet2.png[]
 
-Jeedom will ask you the name of it :
+Jeedom will ask you the name of it:
 
 image::../images/premier-objet3.png[]
 

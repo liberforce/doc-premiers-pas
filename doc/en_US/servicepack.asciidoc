@@ -8,7 +8,7 @@ If you buy a service pack from the Jeedom Market you have nothing to do, it is a
 
 Note the service pack code you received in the email, go to the link:https://market.jeedom.fr[market Jeedom] and identify you.
 
-Then go to your profile page :
+Then go to your profile page:
 
 image::../images/premier-servicepack.png[]
 
@@ -16,7 +16,7 @@ Then click on the tab "My Jeedoms"
 
 image::../images/premier-servicepack2.png[]
 
-Ask your service pack number and validate :
+Ask your service pack number and validate:
 
 image::../images/premier-servicepack3.png[]
 
